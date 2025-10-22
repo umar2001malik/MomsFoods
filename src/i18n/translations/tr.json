@@ -1,0 +1,655 @@
+{
+  "header": {
+    "home": "ANA SAYFA",
+    "products": "ÜRÜNLER",
+    "about": "HAKKIMIZDA",
+    "contact": "İLETİŞİM",
+    "login": "GİRİŞ"
+  },
+  "navigation": {
+    "language": "Dil"
+  },
+  "hero": {
+    "lines": {
+      "noAddedSugar": "EKŞİ ŞEKER YOK",
+      "ovenBakedWith": "FIRINDA PİŞİRİLMİŞ",
+      "extraVirgin": "SIZMA",
+      "oliveOil": "ZEYTİNYAĞI",
+      "granola": "GRANOLA"
+    },
+    "features": {
+      "natural": "%100 Doğal",
+      "healthy": "Sağlıklı Seçim",
+      "affordable": "Uygun Fiyatlı",
+      "safe": "Güvenli & Saf"
+    },
+    "button": {
+      "discover": "Granolamızı Keşfedin"
+    }
+  },
+  "infoSection": {
+    "title": "Neden Mom's Naturals Foods?",
+    "brandName": "MOM'S Naturals Foods",
+    "description": {
+      "part1": "Biz",
+      "part2": "hem sağlık hem de lezzet isteyen — ödün vermeyen insanlar için yaratıyoruz.",
+      "part3": "Ürünlerimiz kimyasal katkı maddeleri, renklendiriciler, aromalar ve şekerden arındırılmıştır — sadece saf, doğal malzemeler."
+    },
+    "button": {
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "media": {
+      "altText": "Doğal Gıdalar"
+    }
+  },
+  "scrollingFeatures": {
+    "ovenBaked": "Fırında Pişmiş",
+    "highFiber": "Yüksek lif",
+    "allNatural": "Tamamen doğal",
+    "veganVegetarian": "Vegan, Vejetaryen",
+    "mineralsSource": "Magnezyum, fosfor, demir ve çinko kaynağı",
+    "vitaminsSource": "Tiamin (B1) ve E Vitamini Kaynağı",
+    "proteinSource": "Protein Kaynağı"
+  },
+
+  "products": {
+    "title": {
+      "line1": "Doğal",
+      "natural": "Ürünlerimiz",
+      "line2": ""
+    },
+    "description": {
+      "part1": "Doğanın en iyi malzemelerinin saflığını deneyimleyin, hem bedeni hem de ruhu besleyen keyifli atıştırmalıklara dönüştürülmüş.",
+      "part2": "Her ürün sevgi ve titizlikle hazırlanır, her lokmanın saf, doğal lezzetin harika bir deneyimi olmasını sağlar."
+    },
+    "buttons": {
+      "seeMore": "Daha Fazla",
+      "exploreAll": "Tüm Ürünleri Keşfet"
+    },
+    "videoFallback": "Tarayıcınız video etiketini desteklemiyor.",
+    "granola": {
+      "name": "Granola",
+      "description": "Sağlıklı bir başlangıç için doğal yulaf ve kuruyemişlerle yapılmış, çıtır çıtır granola.",
+      "category": "GRANOLA 360GR",
+      "details": "ELMA SUYU İLE TATLANDIRILMIŞ • DEMİR KAYNAĞI • YÜKSEK OMEGA 3",
+      "ingredients": "Yulaf Ezmesi + Sızma Zeytinyağı + Elma Suyu + Badem + Ceviz + Fındık + Ayçiçeği Çekirdeği + Kabak Çekirdeği + Hindistan Cevizi + Keten Tohumu + Buğday Ruşeymi + Yulaf Kepeği + Siyah Frenk Üzümü + Tarçın",
+      "badges": ["YÜKSEK LİF", "YÜKSEK OMEGA"],
+      "weight": "360g"
+    },
+    "peachMelba": {
+      "name": "Şeftali Melba",
+      "description": "Organik meyvelerle doğal olarak tatlandırılmış lezzetli şeftali melba.",
+      "category": "GLUTENSİZ KURABİYE",
+      "details": "YÜKSEK LİF • ELMA SUYU İLE TATLANDIRILMIŞ",
+      "ingredients": "Glutensiz Yulaf Gevreği + Elma Suyu Konsantresi + Hindistan Cevizi + Sızma Zeytinyağı + Badem + Chia Tohumu + Limon Yağı + Tuz",
+      "badges": ["GLUTENSİZ", "YÜKSEK LİF"],
+      "weight": "50g"
+    }
+  },
+
+  "whatMakesDifferent": {
+    "title": {
+      "line1": "Bizi Farklı",
+      "highlighted": "Kılan Nedir"
+    },
+    "subtitle": "Özenle seçilmiş malzemeler ve saflık sözü.",
+    "goodForYouTitle": "Sizin İçin İyi",
+    "freeFromTitle": "İçermez",
+    "videoFallback": "Tarayıcınız video etiketini desteklemiyor.",
+    "goodForYou": [
+      "Küçük parti el yapımı işlem",
+      "Gerçek Meyve",
+      "Tam tahıl",
+      "Fırında pişmiş",
+      "Yüksek lif",
+      "Tamamen doğal",
+      "Vegan, Vejetaryen",
+      "Magnezyum, fosfor, demir ve çinko kaynağı",
+      "Tiamin (B1) ve E Vitamini Kaynağı",
+      "Protein Kaynağı"
+    ],
+    "freeFrom": [
+      "Palmiye yağı yok",
+      "İlave şeker yok",
+      "Yapay aromalar yok",
+      "Yapay koruyucular yok",
+      "Katkı maddesi yok",
+      "İlave tuz yok",
+      "Trans yağ yok",
+      "Hidrojenize yağlar yok",
+      "Yüksek fruktozlu mısır şurubu yok",
+      "Glikoz yok"
+    ],
+    "footer": {
+      "part1": "Her ürün",
+      "highlighted": "sevgi ve özenle",
+      "part2": " hazırlanır, size sadece en iyisini ― doğal olarak sunar."
+    }
+  },
+
+  "faq": {
+    "title": {
+      "line1": "Sıkça Sorulan",
+      "highlighted": "Sorular"
+    },
+    "subtitle": "Doğal ürünlerimiz hakkında en yaygın soruların cevaplarını alın",
+    "videoFallback": "Tarayıcınız video etiketini desteklemiyor.",
+    "questions": [
+      {
+        "question": "Ürünleriniz %100 organik mi?",
+        "answer": "Evet! Tüm ürünlerimiz zararlı kimyasallar, koruyucular ve yapay aromalardan arındırılmış %100 organik malzemelerle yapılmıştır.",
+        "icon": "Sparkles"
+      },
+      {
+        "question": "Şeker veya tatlandırıcı ekliyor musunuz?",
+        "answer": "Hayır, asla yapay şeker veya tatlandırıcı eklemiyoruz. Ürünlerimiz organik meyveler ve bal ile doğal olarak tatlandırılmıştır.",
+        "icon": "Zap"
+      },
+      {
+        "question": "Hollanda genelinde teslimat mevcut mu?",
+        "answer": "Evet, ürünlerimizi hızlı ve çevre dostu paketleme ile ülke çapında teslim ediyoruz.",
+        "icon": "Target"
+      },
+      {
+        "question": "Mom's Natural Foods ürünlerini nasıl saklamalıyım?",
+        "answer": "Onları serin, kuru bir yerde saklamanızı öneririz. Koruyucusuz ürünler uygun şekilde saklanırsa doğal olarak taze kalır.",
+        "icon": "Star"
+      },
+      {
+        "question": "Ürünleriniz çocuklar için güvenli mi?",
+        "answer": "Kesinlikle! Yiyeceklerimiz doğal ve kimyasalsız malzemelerle yapıldığından, çocuklar için tamamen güvenli ve sağlıklıdır.",
+        "icon": "Heart"
+      }
+    ],
+    "cta": {
+      "title": "Hala sorularınız mı var?",
+      "description": "Sağlığınız için en iyi seçimi yapmanıza yardımcı olmak için buradayız",
+      "button": "Bize Ulaşın"
+    }
+  },
+
+  "footer": {
+    "brandName": "MOM'S NATURAL",
+    "description": "Size anne sevgisiyle yapılmış en saf doğal gıdaları getiriyoruz. Ödün yok, sadece dürüst malzemeler ve lezzetli tatlar.",
+    "quickLinksTitle": "Hızlı Bağlantılar",
+    "contactTitle": "Bize Ulaşın",
+    "newsletterTitle": "Bülten",
+    "newsletterDescription": "Yeni ürünler ve sağlıklı tarifler hakkında güncellemeler almak için abone olun.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "subscribeButton": "Şimdi Abone Ol",
+    "successTitle": "Teşekkürler!",
+    "successMessage": "Başarıyla abone oldunuz!",
+    "copyright": "© 2025 Mom's Natural Foods. Tüm hakları saklıdır.",
+    "quickLinks": ["Ana Sayfa", "Ürünler", "Hakkımızda", "İletişim"],
+    "contactInfo": [
+      { "icon": "MapPin", "text": "Keienbergweg 38A, 1101 GC Amsterdam, Hollanda" },
+      { "icon": "Phone", "text": "+31 639216200" },
+      { "icon": "Mail", "text": "Contact@Momsnaturalfoods.nl  " }
+    ],
+    "policies": ["Gizlilik Politikası", "Hizmet Şartları", "Kargo Politikası", "İade Politikası"]
+  }
+,
+  "about": {
+    "hero": {
+      "title": "Hikayemiz",
+      "subtitle": "Ev mutfağından sizin sofranıza - bir tutku, sağlık ve doğal güzellik yolculuğu"
+    },
+    "story": {
+      "title": "Yolculuğumuzun Başlangıcı",
+      "paragraphs": [
+       
+        "Evde yapmaya başladığım granolaların bir marka adına dönüşme hikayesi 2011 sonbaharına kadar uzanıyor. O zamanlar, Marmaris’in cennet köşelerinden biri olan Bördübet’te, sevgili arkadaşım Hale’in detoks programına katılmıştım ve bu deneyim hayatımda pek çok şeyi değiştirdi.",
+        "Hale kısa süre önce Amerika Birleşik Devletleri’nden dönmüştü ve onunla yaptığımız sayısız sohbetten sonra öğrendiğim granola, evimizde vazgeçilmez bir yiyecek haline geldi.",
+        "Peki, granola dediğimiz şey neydi? Kısaca, yulaf ezmesinin fındık, kuru meyveler ve bal gibi doğal bir tatlandırıcıyla fırınlanmasıyla yapılan gevrek bir yiyecektir. 1960’larda Amerika’daki hippi hareketiyle birlikte sağlıklı bir yiyecek olarak ortaya çıktı.",
+        "Daha sonra rafine şeker, soya ve benzeri katkılarla sağlıklı bir seçenek olmaktan uzaklaşsa da, doğal ve sağlıklı beslenmeye olan tutkum nedeniyle her zaman ilgimi çekmiştir."
+      ]
+    },
+    "evolution": {
+      "title": "Ev Mutfağından Sizin Evinize",
+      "imageAlt": "Gelişimimiz",
+      "paragraphs": [
+             
+        "Sağlıklı beslenmeye olan kişisel tutkumuz kısa sürede daha büyük bir şeye dönüştü. Ev yapımı granolamızı tadan arkadaşlarımız ve ailemiz, bu güzelliği başkalarıyla da paylaşmamız için bizi teşvik etti.",
+        "Granolayı özgün ve sağlıklı kılan ilkelere sadık kalmaya karar verdik - yalnızca doğal malzemeler kullanarak, rafine şekerden uzak durarak ve besin değerini özenli hazırlık yöntemleriyle koruyarak.",
+        "Bugün Mom’s Natural Foods, ilk olarak ev mutfağımızda sevgiyle hazırladığımız o granolaların geleneğini sürdürüyor ve aynı özenle yapılmış bu lezzeti ailelerinizle buluşturuyor."
+      ]
+    },
+    "valuesTitle": "Değerlerimiz",
+    "values": [
+      {
+        "icon": "Heart",
+        "title": "Sevgiyle Yapıldı",
+        "description": "Her ürün, kendi ailemiz için yapacağımız aynı özen ve dikkatle hazırlanır."
+      },
+      {
+        "icon": "Leaf",
+        "title": "%100 Doğal",
+        "description": "Sadece doğadan gelen en saf malzemeler, yapay katkı maddeleri ve koruyuculardan arındırılmış."
+      },
+      {
+        "icon": "Shield",
+        "title": "Kalite Garantili",
+        "description": "Sıkı kalite kontrolleri, sadece en iyi doğal ürünleri aldığınızdan emin olur."
+      },
+      {
+        "icon": "Users",
+        "title": "Aile Odaklı",
+        "description": "Ne tükettiklerine önem veren aileler için sağlıklı seçenekler yaratıyoruz."
+      },
+      {
+        "icon": "Target",
+        "title": "Misyonumuz",
+        "description": "Sağlıklı beslenmeyi herkes için erişilebilir ve lezzetli hale getirmek."
+      },
+      {
+        "icon": "Star",
+        "title": "Mükemmellik",
+        "description": "Ürünlerimizin ve hizmetimizin her yönünde mükemmelliğe bağlıyız."
+      }
+    ],
+    "gallery": {
+      "title": "Yolculuğumuz",
+      "imageAlt": "Yolculuğumuz {{number}}",
+      "memory": "Anı {{number}}"
+    }
+  }
+,
+"clickForDetails": "Detaylar için tıklayın",
+  "modal": {
+    "details": "Derinlemesine",
+    "benefits": "Temel Faydalar",
+    "commitment": "Taahhüdümüz",
+    "footer": "Bu, Mom's Natural Foods'u özel yapan şeydir"
+  },
+  "valueDetails": {
+    "Made with Love": {
+      "details": "Ürünlerimizin her partisi, kendi ailemize vereceğimiz aynı sevgi ve özenle hazırlanır. Bu, malzeme seçiminden nihai paketlemeye kadar her detaya dikkat etmek anlamına gelir.",
+      "benefits": [
+        "Her üründe kişisel dokunuş",
+        "Nesiller boyu aktarılan aile tarifleri",
+        "Kalite kontrolü için küçük partiler halinde el yapımı",
+        "Samimi özen ve dikkatle hazırlanmış"
+      ],
+      "commitment": "Sevgiyle yapılan yemeğin daha lezzetli olduğuna ve hem bedeni hem de ruhu beslediğine inanıyoruz. Bu felsefe, yarattığımız her şeyin merkezindedir."
+    },
+    "100% Natural": {
+      "details": "Sadece en saf malzemeleri doğrudan doğadan temin ediyoruz. Hiçbir yapay katkı maddesi, koruyucu veya kimyasal ürünlerimize asla değmez.",
+      "benefits": [
+        "Yapay renkler veya aromalar yok",
+        "Koruyucu ve kimyasallardan arındırılmış",
+        "Sürdürülebilir kaynaklı malzemeler",
+        "Şeffaf malzeme listeleri"
+      ],
+      "commitment": "Her malzemenin doğal bütünlüğünü korumaya, doğanın amaçladığı tam besinsel faydaları almanızı sağlamaya kararlıyız."
+    },
+    "Quality Guaranteed": {
+      "details": "Sıkı kalite kontrol sürecimiz, her ürünün evinize ulaşmadan önce yüksek standartlarımızı karşılamasını sağlar.",
+      "benefits": [
+        "Birden fazla kalite kontrol noktası",
+        "Düzenli laboratuvar testleri",
+        "Tazelik garantisi",
+        "Tutarlı ürün kalitesi"
+      ],
+      "commitment": "Yaptığımız her ürünün arkasındayız. Tamamen memnun değilseniz, durumu düzeltiriz."
+    },
+    "Family Focused": {
+      "details": "Ailelerin sevdiklerine servis etmekten iyi hissedebileceği, beslenme, güvenlik ve lezzete odaklanan ürünler yaratıyoruz.",
+      "benefits": [
+        "Tüm aile üyeleri için güvenli",
+        "Besin değeri dengeli seçenekler",
+        "Çocuklar için uygun lezzetler",
+        "Aile boyu paketleme"
+      ],
+      "commitment": "Sadece bir işletme değiliz - ailelere hizmet veren bir aileyiz, sağlıklı seçimleri kolaylaştırmanıza yardımcı olmaya kararlıyız."
+    },
+    "Our Mission": {
+      "details": "Sağlıklı, doğal beslenmeyi herkes için erişilebilir ve keyifli hale getirmek, lezzet veya kaliteden ödün vermeden.",
+      "benefits": [
+        "Uygun fiyatlı sağlıklı seçenekler",
+        "Geniş ürün çeşitliliği",
+        "Eğitim kaynakları",
+        "Topluluk desteği"
+      ],
+      "commitment": "Sağlıklı beslenme engellerini kırmaya ve doğal gıdaları günlük yaşamın neşeli bir parçası haline getirmeye adanmış durumdayız."
+    },
+    "Excellence": {
+      "details": "Ürün geliştirmeden müşteri hizmetlerine kadar işimizin her yönünde mükemmellik için çaba gösteriyoruz.",
+      "benefits": [
+        "Sürekli ürün iyileştirme",
+        "Olağanüstü müşteri hizmeti",
+        "Yenilikçi ürün geliştirme",
+        "Sürdürülebilir iş uygulamaları"
+      ],
+      "commitment": "'Yeterince iyi' ile asla yetinmiyoruz ve her zaman sizi daha iyi nasıl hizmet edebileceğimizi ve iyileştirebileceğimizi arıyoruz."
+    }
+  }
+,
+  "contact": {
+    "hero": {
+      "title": "İletişime Geçin",
+      "subtitle": "Sizden haber almak isteriz. Bize bir mesaj gönderin, en kısa sürede yanıt vereceğiz."
+    },
+    "contactInfo": [
+      {
+        "icon": "Phone",
+        "title": "Telefon",
+        "details": "+31 639216200",
+        "description": "Pzt-Cuma 09:00 - 18:00",
+        "color": "from-blue-500 to-cyan-400"
+      },
+      {
+        "icon": "Mail",
+        "title": "E-posta",
+        "details": "Contact@Momsnaturalfoods.nl ",
+        "description": "Sorgularınızı istediğiniz zaman gönderin!",
+        "color": "from-green-500 to-emerald-400"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Adres",
+        "details": "Keienbergweg 38A, 1101 GC Amsterdam, Hollanda.",
+        "description": "",
+        "color": "from-red-500 to-pink-400"
+      },
+      {
+        "icon": "Clock",
+        "title": "Çalışma Saatleri",
+        "details": "Pazartesi'den Cuma'ya",
+        "description": "09:00AM - 5:00PM",
+        "color": "from-purple-500 to-indigo-400"
+      }
+    ],
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "description": "Doğal ürünlerimiz hakkında sorularınız mı var? Yardımcı olmak için buradayız ve sizden haber almak istiyoruz.",
+      "labels": {
+        "name": "Tam Adınız",
+        "email": "E-posta Adresi",
+        "phone": "Telefon Numarası",
+        "subject": "Konu",
+        "message": "Mesaj"
+      },
+      "placeholders": {
+        "name": "Tam adınız",
+        "email": "Contact@Momsnaturalfoods.nl  ",
+        "phone": "+31 639216200",
+        "subject": "Bu ne hakkında?",
+        "message": "Sorgunuz hakkında daha fazla bilgi verin..."
+      },
+      "button": "Mesajı Gönder",
+      "submitting": "Gönderiliyor..."
+    },
+    "success": {
+      "title": "Teşekkürler!",
+      "message": "Mesajınız başarıyla gönderildi.",
+      "details": "24 saat içinde size dönüş yapacağız."
+    },
+    "location": {
+      "title": "Konumumuzu Ziyaret Edin",
+      "mapTitle": "Moms Natural Konumu - Keienbergweg 38A, 1101 GC, Amsterdam, Hollanda",
+      "addressTitle": "Adresimiz",
+      "address": "Keienbergweg 38A, 1101 GC, Amsterdam, Hollanda",
+      "addressDescription": "Güzeller Organize Sanayi Bölgesi'nde bulunan tesisimiz kolayca erişilebilir ve randevu ile ziyaretçi kabul etmektedir."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "questions": [
+        {
+          "question": "Kargo ne kadar sürüyor?",
+          "answer": "Genellikle siparişleri 1-2 iş günü içinde işler ve kargoya veririz. Türkiye genelinde teslimat 3-5 iş günü sürer."
+        },
+        {
+          "question": "Toptan fiyat teklifi sunuyor musunuz?",
+          "answer": "Evet! Perakendeciler ve işletmeler için özel toptan fiyatlar sunuyoruz. Daha fazla bilgi için bizimle iletişime geçin."
+        },
+        {
+          "question": "Ürünleriniz gerçekten %100 doğal mı?",
+          "answer": "Kesinlikle! Tüm ürünlerimiz yapay katkı maddeleri ve koruyuculardan arındırılmış %100 doğal malzemelerle yapılmıştır."
+        },
+        {
+          "question": "Tesisinizi ziyaret edebilir miyim?",
+          "answer": "Randevu ile ziyaretçi kabul ediyoruz. Lütfen Güzeller OSB'deki üretim tesisimizi ziyaret etmek için randevu almak üzere bizimle iletişime geçin."
+        }
+      ]
+    },
+    "login": {
+  "welcome": "Tekrar Hoş Geldiniz",
+  "accessDashboard": "Yönetici panelinize erişin",
+  "subtitle": "Sevgi ve özenle hazırlanmış premium doğal gıdalar",
+  "features": {
+    "natural": "%100 Doğal İçerikler",
+    "noPreservatives": "Yapay Koruyucu Yok",
+    "healthy": "Sağlıklı & Lezzetli",
+    "familyRecipes": "Aile Tarifleri"
+  },
+  "emailLabel": "E-posta Adresi",
+  "emailPlaceholder": "E-postanızı girin",
+  "passwordLabel": "Şifre",
+  "passwordPlaceholder": "Şifrenizi girin",
+  "rememberMe": "Beni hatırla",
+  "forgotPassword": "Şifrenizi mi unuttunuz?",
+  "forgotPasswordToast": "📧 Şifre sıfırlama özelliği yakında!",
+  "signInButton": "Panele Giriş Yap",
+  "signingIn": "Giriş yapılıyor...",
+  "secureAccess": "Mom's Natural Foods için güvenli yönetici erişimi",
+  "adminPortal": "Mom's Natural Foods Yönetici Portalı",
+  "successMessage": "🎉 Giriş başarılı! Yönlendiriliyor...",
+  "errorMessage": "Giriş başarısız. Lütfen tekrar deneyin.",
+  "genericError": "Giriş sırasında bir hata oluştu. Lütfen tekrar deneyin."
+}
+  },
+  "product": {
+    "allProducts": "Tüm Ürünler",
+    "discover": "Doğal malzemelerle yapılan sağlıklı, lezzetli ürün yelpazemizi keşfedin.",
+    "allCategories": "Tüm Kategoriler",
+    "showingAll": "Tümünü göster",
+    "showing": "Gösteriliyor",
+    "products": "ürünler",
+    "of": "toplam",
+    "in": "içinde",
+    "clear": "Temizle",
+    "viewMore": "Daha Fazla Görüntüle",
+    "loading": "Ürünler yükleniyor...",
+    "tryAgain": "Tekrar Dene",
+    "noProductsFound": "Ürün bulunamadı",
+    "noProductsInCategory": "Seçilen kategoride ürün bulunamadı.",
+    "showAllProducts": "Tüm Ürünleri Göster"
+  },
+  "product": {
+    "allProducts": "Tüm Ürünler",
+    "discover": "Doğal malzemelerle yapılan sağlıklı, lezzetli ürün yelpazemizi keşfedin.",
+    "allCategories": "Tüm Kategoriler",
+    "showingAll": "Tümünü göster",
+    "showing": "Gösteriliyor",
+    "product": "ürün",
+    "products": "ürünler",
+    "of": "toplam",
+    "in": "içinde",
+    "clear": "Temizle",
+    "viewMore": "Daha Fazla Görüntüle",
+    "loading": "Ürünler yükleniyor...",
+    "tryAgain": "Tekrar Dene",
+    "noProductsFound": "Ürün bulunamadı",
+    "noProductsInCategory": "Seçilen kategoride ürün bulunamadı.",
+    "showAllProducts": "Tüm Ürünleri Göster"
+  },
+  
+  "productDetail": {
+    "backToProducts": "Ürünlere Geri Dön",
+    "loadingProduct": "Ürün yükleniyor...",
+    "productNotFound": "Ürün bulunamadı.",
+    "goBack": "Geri Dön",
+    "ingredients": "Malzemeler",
+    "noIngredients": "Malzeme bilgisi mevcut değil.",
+    "nutritionFacts": "Besin Değerleri",
+    "noNutrition": "Besin bilgisi mevcut değil.",
+    "nutrient": "Besin",
+    "per100g": "100g başına",
+    "portion": "Porsiyon",
+    "ri100g": "RI% (100g)",
+    "riPortion": "RI% (Porsiyon)",
+    "loadingImage": "Resim yükleniyor...",
+    "highlights": "Ürün Özellikleri",
+    "highlight1": "Elma Suyu ile Tatlandırılmış",
+    "highlight2": "Yüksek Lif ve Omega-3",
+    "highlight3": "Sadece Doğal Malzemeler",
+    "highlight4": "Yapay Koruyucu Yok",
+    "conventional": "GELENEKSEL ÜRÜN",
+    "viewIngredients": "Malzemeleri Görüntüle",
+    "nutritionFactsButton": "Besin Değerleri",
+    "perfectWith": "Mükemmel ile",
+    "withMilk": "Süt",
+    "withYoghurt": "Yoğurt",
+    "withIceCream": "Dondurma",
+    "plain": "Sade",
+    "uncategorized": "Kategorisiz",
+    "product": "Ürün",
+    "noDescription": "Açıklama mevcut değil."
+  },
+  
+  "login": {
+    "welcomeBack": "Tekrar Hoş Geldiniz",
+    "accessDashboard": "Yönetici panelinize erişin",
+    "emailLabel": "E-posta Adresi",
+    "emailPlaceholder": "E-postanızı girin",
+    "passwordLabel": "Şifre",
+    "passwordPlaceholder": "Şifrenizi girin",
+    "showPassword": "Şifreyi göster",
+    "hidePassword": "Şifreyi gizle",
+    "rememberMe": "Beni hatırla",
+    "forgotPassword": "Şifreni mi unuttun?",
+    "signInButton": "Panele Giriş Yap",
+    "signingIn": "Giriş yapılıyor...",
+    "secureAdmin": "Mom's Natural Foods güvenli admin erişimi",
+    "adminPortal": "Mom's Natural Foods Yönetici Portalı",
+    "brandTitle": "Mom's Natural Foods",
+    "brandSubtitle": "Sevgiyle hazırlanmış premium doğal gıdalar",
+    "feature1": "100% Doğal İçerik",
+    "feature2": "Yapay Koruyucu İçermez",
+    "feature3": "Sağlıklı & Lezzetli",
+    "feature4": "Aile Tarifleri",
+    "toastSuccess": "Giriş başarılı! Yönlendiriliyorsunuz...",
+    "toastError": "Giriş başarısız. Lütfen tekrar deneyin.",
+    "toastNetworkError": "Giriş sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+    "toastForgotPassword": "Şifre sıfırlama özelliği yakında!"
+  },
+  
+  "admin": {
+    "panel": "Yönetici Paneli",
+    "subtitle": "Annenin Doğal Gıdaları",
+    "categories": "Kategoriler",
+    "products": "Ürünler",
+    "logout": "Çıkış Yap",
+    "productManagement": {
+      "title": "Ürünler",
+      "subtitle": "Doğal gıda ürünlerinizi yönetin",
+      "addButton": "Ürün Ekle",
+      "createTitle": "Yeni Ürün Oluştur",
+      "editTitle": "Ürünü Düzenle",
+      "titleLabel": "Ürün Başlığı *",
+      "titlePlaceholder": "Ürün başlığını girin",
+      "categoryLabel": "Kategori *",
+      "categoryPlaceholder": "Kategori Seçin",
+      "descriptionLabel": "Açıklama",
+      "descriptionPlaceholder": "Ürün açıklamasını girin",
+      "imagesLabel": "Ürün Resimleri",
+      "existingImages": "Mevcut Resimler",
+      "addMoreImages": "Daha Fazla Resim Ekle",
+      "uploadImages": "Resimleri yüklemek için tıklayın",
+      "multipleImages": "Birden fazla resim seçilebilir",
+      "newImages": "Yüklemek İçin Yeni Resimler",
+      "nutritionLabel": "Besin Bilgileri",
+      "addNutrition": "Besin Ekle",
+      "nutrientName": "Besin Adı",
+      "nutrientPlaceholder": "ör. Yağ, Protein",
+      "per100g": "100 G İÇİN",
+      "per100gPlaceholder": "ör. 21.5g",
+      "ri100g": "RI%* 100 G İÇİN",
+      "ri100gPlaceholder": "ör. 31",
+      "portion": "1 PORSİYON (40 G)",
+      "portionPlaceholder": "ör. 8.6g",
+      "riPortion": "RI%* 40 G İÇİN",
+      "riPortionPlaceholder": "ör. 12",
+      "ingredientsLabel": "Malzeme Bilgileri",
+      "addIngredient": "Malzeme Ekle",
+      "ingredientPlaceholder": "Malzeme girin",
+      "saveButton": "Ürünü Kaydet",
+      "updateButton": "Ürünü Güncelle",
+      "saving": "Kaydediliyor...",
+      "cancelButton": "İptal",
+      "noProducts": "Henüz Ürün Yok",
+      "noProductsHint": "Başlamak için ilk ürününüzü oluşturun",
+      "deleting": "Siliniyor...",
+      "confirmDelete": "Bu ürünü silmek istediğinize emin misiniz?",
+      "deleteFailed": "Silme başarısız",
+      "requiredFields": "Lütfen tüm zorunlu alanları doldurun",
+      "createdAt": "Oluşturulma: {{date}}"
+    }
+    ,
+    "categoryManagement": {
+      "title": "Kategoriler",
+      "subtitle": "Ürün kategorilerinizi yönetin",
+      "addButton": "Kategori Ekle",
+      "createTitle": "Yeni Kategori Oluştur",
+      "editTitle": "Kategoriyi Düzenle",
+      "titleLabel": "Başlık *",
+      "titlePlaceholder": "Kategori başlığını girin",
+      "descriptionLabel": "Açıklama",
+      "descriptionPlaceholder": "Kategori açıklamasını girin",
+      "saveButton": "Kategoriyi Kaydet",
+      "cancelButton": "İptal",
+      "noCategories": "Henüz Kategori Yok",
+      "noCategoriesHint": "Başlamak için ilk kategorinizi oluşturun",
+      "createdAt": "Oluşturulma: {{date}}",
+      "productCount": "{{count}} ürün"
+    }
+  },
+  "language": {
+    "en": "English",
+    "tr": "Türkçe",
+    "nl": "Nederlands",
+    "ar": "العربية"
+  }
+,
+"login": {
+    "title": "Annenin Doğal Yiyecekleri",
+    "subtitle": "Sevgi ve özenle yapılan premium doğal yiyecekler",
+    "highlight1": "%100 Doğal Malzemeler",
+    "highlight2": "Yapay Koruyucu Yok",
+    "highlight3": "Sağlıklı & Lezzetli",
+    "highlight4": "Aile Tarifleri",
+    "welcome": "Hoş Geldiniz",
+    "access": "Yönetici panonuza erişin",
+    "emailLabel": "E-posta Adresi",
+    "emailPlaceholder": "E-postanızı girin",
+    "passwordLabel": "Şifre",
+    "passwordPlaceholder": "Şifrenizi girin",
+    "remember": "Beni hatırla",
+    "forgot": "Şifremi unuttum?",
+    "signIn": "Panelde Oturum Aç",
+    "signingIn": "Oturum Açılıyor...",
+    "secure": "Annenin Doğal Yiyecekleri için güvenli yönetici erişimi",
+    "viewPrivacy": "Gizlilik Politikası Görüntüle",
+    "privacyTitle": "Gizlilik Politikası",
+    "effectiveDate": "Yürürlük Tarihi: 13 Ekim 2025",
+    "introduction": "Annenin Doğal Yiyecekleri (\"Şirket\", \"biz\", \"bizim\" veya \"bize\") Annenin Doğal Yiyecekleri mobil ve web uygulamasını (\"Uygulama\") işletir. Gizliliğinizi değer veriyoruz ve kişisel verilerinizi Türkiye'deki geçerli yasalarla uyumlu olarak korumaya kararlıyız, Kişisel Verilerin Korunması Kanunu (KVKK) dahil.",
+    "dataCollect": "Kullanıcılarımızdan sadece aşağıdaki kişisel verileri topluyoruz:",
+    "dataEmail": "E-posta adresi",
+    "dataPassword": "Şifre",
+    "dataNoMore": "Konum, ödeme detayları veya gezinme faaliyeti gibi herhangi bir ek bilgi toplamıyor, takip etmiyor veya depolamıyoruz.",
+    "purpose": "Toplanan veriler sadece kullanıcı kimlik doğrulaması, hesap erişimi ve hizmetlerimizde güvenli oturum açma için kullanılır.",
+    "storage": "Kişisel verileriniz Almanya'da bulunan Hostinger sunucularında güvenli bir şekilde saklanır. Tüm verilerin şifrelendiğinden ve yetkisiz erişim veya ifşaya karşı korunduğundan emin oluruz.",
+    "sharing": "Verilerinizi herhangi bir diğer tarafa, organizasyona veya dış alana paylaşmıyor, satmıyor veya aktarmıyoruz. Tüm veriler Almanya'da barındırılan güvenli sistemimizde kalır.",
+    "deletion": "Kullanıcılar, hesaplarının ve ilgili verilerin silinmesini info@site_url.nl ile iletişime geçerek her zaman talep edebilir. Doğrulama üzerine, tüm kişisel veriler sunucularımızdan kalıcı olarak silinecektir.",
+    "contactTitle": "İletişim Bilgileri",
+    "contactCompany": "Annenin Doğal Yiyecekleri",
+    "contactAddress": "Adres: temp_address",
+    "contactWebsite": "Web sitesi: Site_url",
+    "contactEmail": "E-posta: info@site_url.nl",
+    "contactPhone": "Telefon: +31 12345678",
+    "close": "Kapat",
+    "portal": "Annenin Doğal Yiyecekleri Yönetici Portalı",
+    "error": "Giriş başarısız. Lütfen tekrar deneyin."
+  }
+
+}

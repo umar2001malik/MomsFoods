@@ -1,0 +1,634 @@
+{
+  "header": {
+    "home": "HOME",
+    "products": "PRODUCTS",
+    "about": "ABOUT",
+    "contact": "CONTACT",
+    "login": "LOGIN"
+  },
+  "navigation": {
+    "language": "Language"
+  },
+  "hero": {
+    "lines": {
+      "noAddedSugar": "NO ADDED SUGAR",
+      "ovenBakedWith": "OVEN BAKED WITH",
+      "extraVirgin": "EXTRA VIRGIN",
+      "oliveOil": "OLIVE OIL",
+      "granola": "GRANOLA"
+    },
+    "features": {
+      "natural": "100% Natural",
+      "healthy": "Healthy Choice",
+      "affordable": "Affordable",
+      "safe": "Safe & Pure"
+    },
+    "button": {
+      "discover": "Discover Our Granola"
+    }
+  },
+  "infoSection": {
+    "title": "Why Mom's Naturals Foods?",
+    "brandName": "MOM'S Naturals Foods",
+    "description": {
+      "part1": "We create",
+      "part2": "for people who want both health and taste — no compromises.",
+      "part3": "Our products are free from chemical additives, coloring, flavoring, and sugar — only pure, natural ingredients."
+    },
+    "button": {
+      "learnMore": "Learn More"
+    },
+    "media": {
+      "altText": "Natural Foods"
+    }
+  },
+  "scrollingFeatures": {
+    "ovenBaked": "Oven Baked",
+    "highFiber": "High fiber",
+    "allNatural": "All natural",
+    "veganVegetarian": "Vegan, Vegetarian",
+    "mineralsSource": "Magnesium, phosphore, iron and zinc source",
+    "vitaminsSource": "Tiamin (B1) and Vitamin E Source",
+    "proteinSource": "Protein Source"
+  },
+  "products": {
+    "title": {
+      "line1": "Our",
+      "natural": "Natural",
+      "line2": "Products"
+    },
+    "description": {
+      "part1": "Experience the purity of nature's finest ingredients, transformed into delightful treats that nourish both body and soul.",
+      "part2": "Each product is crafted with love and precision, ensuring every bite is a wonderful experience of pure, natural goodness."
+    },
+    "buttons": {
+      "seeMore": "See More",
+      "exploreAll": "Explore All Products"
+    },
+    "videoFallback": "Your browser does not support the video tag.",
+    "granola": {
+      "name": "Granola",
+      "description": "Crunchy, wholesome granola made with natural oats and nuts for a healthy start.",
+      "category": "GRANOLA 360GR",
+      "details": "SWEETENED WITH APPLE JUICE • IRON SOURCE • HIGH OMEGA 3",
+      "ingredients": "Rolled Oats + Extra Virgin Olive Oil + Apple Juice + Almond + Walnut + Hazelnut + Sunflower Seed + Pumpkin Seed + Coconut + Flax Seed + Wheat Germ + Oat Bran + Blackcurrant + Cinnamon",
+      "badges": ["HIGH FIBER", "HIGH OMEGA"],
+      "weight": "360g"
+    },
+    "peachMelba": {
+      "name": "Peach Melba",
+      "description": "Delicious peach melba, naturally sweetened with organic fruits.",
+      "category": "GLUTEN FREE COOKIE",
+      "details": "HIGH FIBER • SWEETENED WITH APPLE JUICE",
+      "ingredients": "Gluten-free Oat Flakes + Apple Juice Concentrate + Coconut + Extra Virgin Olive Oil + Almond + Chia Seeds + Lemon Oil + Salt",
+      "badges": ["GLUTEN FREE", "HIGH FIBER"],
+      "weight": "50g"
+    }
+  },
+  "whatMakesDifferent": {
+    "title": {
+      "line1": "What Makes Us",
+      "highlighted": "Different"
+    },
+    "subtitle": "Carefully selected ingredients and a promise of purity.",
+    "goodForYouTitle": "Good For You",
+    "freeFromTitle": "Free From",
+    "videoFallback": "Your browser does not support the video tag.",
+    "goodForYou": [
+      "Small batch artisanal process",
+      "Real Fruit",
+      "Wholegrain",
+      "Oven Baked",
+      "High fiber",
+      "All natural",
+      "Vegan, Vegetarian",
+      "Magnesium, phosphore, iron and zinc source",
+      "Tiamin (B1) and Vitamin E Source",
+      "Protein Source"
+    ],
+    "freeFrom": [
+      "No palm oil",
+      "No added sugar",
+      "No artificial aromas",
+      "No artificial preservatives",
+      "No additives",
+      "No added salt",
+      "No trans fat",
+      "No hydrated oils",
+      "No high fructose corn syrup",
+      "No glucose"
+    ],
+    "footer": {
+      "part1": "Every product is crafted with",
+      "highlighted": "love and care",
+      "part2": ", ensuring you get only the best ― naturally."
+    }
+  },
+  "faq": {
+    "title": {
+      "line1": "Frequently Asked",
+      "highlighted": "Questions"
+    },
+    "subtitle": "Get answers to the most common questions about our natural products",
+    "videoFallback": "Your browser does not support the video tag.",
+    "questions": [
+      {
+        "question": "Are your products 100% organic?",
+        "answer": "Yes! All our products are made with 100% organic ingredients, free from harmful chemicals, preservatives, and artificial flavoring.",
+        "icon": "Sparkles"
+      },
+      {
+        "question": "Do you add sugar or sweeteners?",
+        "answer": "No, we never add artificial sugar or sweeteners. Our products are naturally sweetened with organic fruits and honey.",
+        "icon": "Zap"
+      },
+      {
+        "question": "Is delivery available across Netherlands?",
+        "answer": "Yes, we deliver our products nationwide with fast and eco-friendly packaging.",
+        "icon": "Target"
+      },
+      {
+        "question": "How should I store Mom's Natural Foods products?",
+        "answer": "We recommend storing them in a cool, dry place. Products without preservatives stay fresh naturally if kept properly.",
+        "icon": "Star"
+      },
+      {
+        "question": "Are your products safe for kids?",
+        "answer": "Absolutely! Since our foods are made with natural and chemical-free ingredients, they are completely safe and healthy for children.",
+        "icon": "Heart"
+      }
+    ],
+    "cta": {
+      "title": "Still have questions?",
+      "description": "We're here to help you make the best choice for your health",
+      "button": "Contact Us"
+    }
+  },
+  "footer": {
+    "brandName": "MOM'S NATURAL",
+    "description": "Bringing you the purest natural foods made with mother's love. No compromises, just honest ingredients and delicious flavors.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "newsletterTitle": "Newsletter",
+    "newsletterDescription": "Subscribe to get updates on new products and healthy recipes.",
+    "emailPlaceholder": "Your email address",
+    "subscribeButton": "Subscribe Now",
+    "successTitle": "Thank You!",
+    "successMessage": "You're successfully subscribed!",
+    "copyright": "© 2025 Mom's Natural Foods. All rights reserved.",
+    "quickLinks": ["Home", "Products", "About", "Contact"],
+    "contactInfo": [
+      { "icon": "MapPin", "text": "Keienbergweg 38A, 1101 GC Amsterdam, Netherlands" },
+      { "icon": "Phone", "text": "+31 639216200" },
+      { "icon": "Mail", "text": "Contact@Momsnaturalfoods.nl  " }
+    ],
+    "policies": ["Privacy Policy", "Terms of Service", "Shipping Policy", "Return Policy"]
+  },
+  "about": {
+    "hero": {
+      "title": "Our Story",
+      "subtitle": "From a home kitchen to your table - a journey of passion, health, and natural goodness"
+    },
+    "story": {
+      "title": "The Beginning of Our Journey",
+      "paragraphs": [
+       
+        "The story of the granolas that I used to make at home turning eventually into a brand name goes back to the fall of 2011. Back then in a place out of paradise in Bordubet, Marmaris I remember attending my dear friend Hale's detox program which had really changed so many things in my life.",
+        "Hale had recently come from the United States and the granola that I learned about after my numerous conversations with her became a must-have food in our household.",
+        "What was this thing called granola? In short, granola is made by oven-baking oatmeal with nuts and dried fruits along with a natural sweetener such as honey until it gets crunchy. It came about as a healthy food in the United States in the 1960's with the hippie movement.",
+        "Although it moved away later on from being a healthy food option with such additives as refined sugar and soy and similar products in it, it has always attracted my attention since I have always been passionate about healthy, natural eating."
+      ]
+    },
+    "evolution": {
+      "title": "From Home Kitchen to Your Home",
+      "imageAlt": "Our evolution",
+      "paragraphs": [
+      
+        "What started as a personal passion for healthy eating quickly grew into something more. Friends and family who tasted our homemade granola encouraged us to share this goodness with others.",
+        "We decided to stay true to the original healthy principles of granola - using only natural ingredients, avoiding refined sugars, and preserving the nutritional value through careful preparation methods.",
+        "Today, Mom's Natural Foods continues this tradition, bringing you the same love and care we put into those first batches from our home kitchen, now available for your family to enjoy."
+      ]
+    },
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "icon": "Heart",
+        "title": "Made with Love",
+        "description": "Every product is crafted with the same care and attention as we would for our own family."
+      },
+      {
+        "icon": "Leaf",
+        "title": "100% Natural",
+        "description": "Only the purest ingredients from nature, free from artificial additives and preservatives."
+      },
+      {
+        "icon": "Shield",
+        "title": "Quality Guaranteed",
+        "description": "Rigorous quality checks ensure you receive only the best natural products."
+      },
+      {
+        "icon": "Users",
+        "title": "Family Focused",
+        "description": "Creating healthy options for families who care about what they consume."
+      },
+      {
+        "icon": "Target",
+        "title": "Our Mission",
+        "description": "To make healthy eating accessible and delicious for everyone."
+      },
+      {
+        "icon": "Star",
+        "title": "Excellence",
+        "description": "Committed to excellence in every aspect of our products and service."
+      }
+    ],
+    "gallery": {
+      "title": "Our Journey",
+      "imageAlt": "Our journey {{number}}",
+      "memory": "Memory {{number}}"
+    },
+    "clickForDetails": "Click for details",
+    "modal": {
+      "details": "In Depth",
+      "benefits": "Key Benefits",
+      "commitment": "Our Commitment",
+      "footer": "This is what makes Mom's Natural Foods special"
+    },
+    "valueDetails": {
+      "Made with Love": {
+        "details": "Every batch of our products is prepared with the same love and care we would give to our own family. This means paying attention to every detail, from ingredient selection to final packaging.",
+        "benefits": [
+          "Personal touch in every product",
+          "Family recipes passed through generations",
+          "Handcrafted in small batches for quality control",
+          "Made with genuine care and attention"
+        ],
+        "commitment": "We believe that food made with love tastes better and nourishes both body and soul. This philosophy is at the heart of everything we create."
+      },
+      "100% Natural": {
+        "details": "We source only the purest ingredients directly from nature. No artificial additives, preservatives, or chemicals ever touch our products.",
+        "benefits": [
+          "No artificial colors or flavors",
+          "Free from preservatives and chemicals",
+          "Sustainably sourced ingredients",
+          "Transparent ingredient lists"
+        ],
+        "commitment": "We are committed to maintaining the natural integrity of every ingredient, ensuring you get the full nutritional benefits nature intended."
+      },
+      "Quality Guaranteed": {
+        "details": "Our rigorous quality control process ensures that every product meets our high standards before it reaches your home.",
+        "benefits": [
+          "Multiple quality checkpoints",
+          "Regular laboratory testing",
+          "Freshness guarantee",
+          "Consistent product quality"
+        ],
+        "commitment": "We stand behind every product we make. If you're not completely satisfied, we'll make it right."
+      },
+      "Family Focused": {
+        "details": "We create products that families can feel good about serving to their loved ones, focusing on nutrition, safety, and taste.",
+        "benefits": [
+          "Safe for all family members",
+          "Nutritionally balanced options",
+          "Kid-friendly flavors",
+          "Family-sized packaging"
+        ],
+        "commitment": "We're not just a business - we're a family serving families, committed to helping you make healthy choices easy."
+      },
+      "Our Mission": {
+        "details": "To make healthy, natural eating accessible and enjoyable for everyone, without compromising on taste or quality.",
+        "benefits": [
+          "Affordable healthy options",
+          "Wide product variety",
+          "Educational resources",
+          "Community support"
+        ],
+        "commitment": "We're dedicated to breaking down barriers to healthy eating and making natural foods a joyful part of everyday life."
+      },
+      "Excellence": {
+        "details": "We strive for excellence in every aspect of our business, from product development to customer service.",
+        "benefits": [
+          "Continuous product improvement",
+          "Exceptional customer service",
+          "Innovative product development",
+          "Sustainable business practices"
+        ],
+        "commitment": "We're never satisfied with 'good enough' and are always looking for ways to improve and serve you better."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get In Touch",
+      "subtitle": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+    },
+    "contactInfo": [
+      {
+        "icon": "Phone",
+        "title": "Phone",
+        "details": "+31 639216200",
+        "description": "Mon to Fri 9am to 6pm",
+        "color": "from-blue-500 to-cyan-400"
+      },
+      {
+        "icon": "Mail",
+        "title": "Email",
+        "details": "Contact@Momsnaturalfoods.nl   ",
+        "description": "Send us your query anytime!",
+        "color": "from-green-500 to-emerald-400"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Address",
+        "details": "Keienbergweg 38A, 1101 GC Amsterdam, Netherlands.",
+        "description": "",
+        "color": "from-red-500 to-pink-400"
+      },
+      {
+        "icon": "Clock",
+        "title": "Working Hours",
+        "details": "Monday to Friday",
+        "description": "9:00 AM - 5:00 PM",
+        "color": "from-purple-500 to-indigo-400"
+      }
+    ],
+    "form": {
+      "title": "Send Us a Message",
+      "description": "Have questions about our natural products? We're here to help and would love to hear from you.",
+      "labels": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your full name",
+        "email": "your@email.com",
+        "phone": "+90 262 751 01 62",
+        "subject": "What's this about?",
+        "message": "Tell us more about your inquiry..."
+      },
+      "button": "Send Message",
+      "submitting": "Sending..."
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "Your message has been sent successfully.",
+      "details": "We'll get back to you within 24 hours."
+    },
+    "location": {
+      "title": "Visit Our Location",
+      "mapTitle": "Moms Natural Location - Keienbergweg 38A 1101 GC - Amsterdam Nederlands",
+      "addressTitle": "Our Address",
+      "address": "Keienbergweg 38A 1101 GC - Amsterdam Nederlands",
+      "addressDescription": "Located in the Güzeller Organized Industrial Zone, our facility is easily accessible and welcomes visitors by appointment."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How long does shipping take?",
+          "answer": "We typically process and ship orders within 1-2 business days. Delivery takes 3-5 business days nationwide in Turkey."
+        },
+        {
+          "question": "Do you offer wholesale pricing?",
+          "answer": "Yes! We offer special wholesale pricing for retailers and businesses. Contact us for more details."
+        },
+        {
+          "question": "Are your products really 100% natural?",
+          "answer": "Absolutely! All our products are made with 100% natural ingredients, free from artificial additives and preservatives."
+        },
+        {
+          "question": "Can I visit your facility?",
+          "answer": "We welcome visitors by appointment. Please contact us to schedule a visit to our production facility in Güzeller OSB."
+        }
+      ]
+      
+    },
+    "login": {
+  "welcome": "Welcome Back",
+  "accessDashboard": "Access your admin dashboard",
+  "subtitle": "Premium natural foods made with love and care",
+  "features": {
+    "natural": "100% Natural Ingredients",
+    "noPreservatives": "No Artificial Preservatives",
+    "healthy": "Healthy & Delicious",
+    "familyRecipes": "Family Recipes"
+  },
+  "emailLabel": "Email Address",
+  "emailPlaceholder": "Enter your email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "forgotPasswordToast": "📧 Password reset feature coming soon!",
+  "signInButton": "Sign In to Dashboard",
+  "signingIn": "Signing In...",
+  "secureAccess": "Secure admin access to Mom's Natural Foods",
+  "adminPortal": "Mom's Natural Foods Admin Portal",
+  "successMessage": "🎉 Login successful! Redirecting...",
+  "errorMessage": "Login failed. Please try again.",
+  "genericError": "An error occurred during login. Please try again."
+}
+    
+  }
+  ,
+  "product": {
+    "allProducts": "All Products",
+    "discover": "Discover our complete range of healthy, delicious products made with natural ingredients.",
+    "allCategories": "All Categories",
+    "showingAll": "Showing all",
+    "showing": "Showing",
+    "product": "product",
+    "products": "products",
+    "of": "of",
+    "in": "in",
+    "clear": "Clear",
+    "viewMore": "View More",
+    "loading": "Loading products...",
+    "tryAgain": "Try Again",
+    "noProductsFound": "No products found",
+    "noProductsInCategory": "No products found in the selected category.",
+    "showAllProducts": "Show All Products"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "loadingProduct": "Loading product...",
+    "productNotFound": "Product not found.",
+    "goBack": "Go Back",
+    "ingredients": "Ingredients",
+    "noIngredients": "No ingredients information available.",
+    "nutritionFacts": "Nutrition Facts",
+    "noNutrition": "No nutrition information available.",
+    "nutrient": "Nutrient",
+    "per100g": "Per 100g",
+    "portion": "Portion",
+    "ri100g": "RI% (100g)",
+    "riPortion": "RI% (Portion)",
+    "loadingImage": "Loading image...",
+    "highlights": "Product Highlights",
+    "highlight1": "Sweetened with Apple Juice",
+    "highlight2": "High in Fiber & Omega-3",
+    "highlight3": "Natural Ingredients Only",
+    "highlight4": "No Artificial Preservatives",
+    "conventional": "CONVENTIONAL PRODUCT",
+    "viewIngredients": "View Ingredients",
+    "nutritionFactsButton": "Nutrition Facts",
+    "perfectWith": "Perfect With",
+    "withMilk": "Milk",
+    "withYoghurt": "Yoghurt",
+    "withIceCream": "Ice Cream",
+    "plain": "Plain",
+    "uncategorized": "Uncategorized",
+    "product": "Product",
+    "noDescription": "No description available."
+  }
+,
+  "login": {
+    "welcomeBack": "Welcome Back",
+    "accessDashboard": "Access your admin dashboard",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signInButton": "Sign In to Dashboard",
+    "signingIn": "Signing In...",
+    "secureAdmin": "Secure admin access to Mom's Natural Foods",
+    "adminPortal": "Mom's Natural Foods Admin Portal",
+    "brandTitle": "Mom's Natural Foods",
+    "brandSubtitle": "Premium natural foods made with love and care",
+    "feature1": "100% Natural Ingredients",
+    "feature2": "No Artificial Preservatives",
+    "feature3": "Healthy & Delicious",
+    "feature4": "Family Recipes",
+    "toastSuccess": "Login successful! Redirecting...",
+    "toastError": "Login failed. Please try again.",
+    "toastNetworkError": "An error occurred during login. Please try again.",
+    "toastForgotPassword": "Password reset feature coming soon!"
+  },
+  
+  "admin": {
+    "panel": "Admin Panel",
+    "subtitle": "Mom's Natural Foods",
+    "categories": "Categories",
+    "products": "Products",
+    "logout": "Logout",
+    "productManagement": {
+      "title": "Products",
+      "subtitle": "Manage your natural food products",
+      "addButton": "Add Product",
+      "createTitle": "Create New Product",
+      "editTitle": "Edit Product",
+      "titleLabel": "Product Title *",
+      "titlePlaceholder": "Enter product title",
+      "categoryLabel": "Category *",
+      "categoryPlaceholder": "Select Category",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter product description",
+      "imagesLabel": "Product Images",
+      "existingImages": "Existing Images",
+      "addMoreImages": "Add More Images",
+      "uploadImages": "Click to upload images",
+      "multipleImages": "Multiple images can be selected",
+      "newImages": "New Images to Upload",
+      "nutritionLabel": "Nutrition Information",
+      "addNutrition": "Add Nutrition",
+      "nutrientName": "Nutrient Name",
+      "nutrientPlaceholder": "e.g., Fat, Protein",
+      "per100g": "PER 100 G",
+      "per100gPlaceholder": "e.g., 21.5g",
+      "ri100g": "RI%* FOR 100 G",
+      "ri100gPlaceholder": "e.g., 31",
+      "portion": "1 PORTION (40 G)",
+      "portionPlaceholder": "e.g., 8.6g",
+      "riPortion": "RI%* FOR 40 G",
+      "riPortionPlaceholder": "e.g., 12",
+      "ingredientsLabel": "Ingredients Information",
+      "addIngredient": "Add Ingredient",
+      "ingredientPlaceholder": "Enter ingredient",
+      "saveButton": "Save Product",
+      "updateButton": "Update Product",
+      "saving": "Saving...",
+      "cancelButton": "Cancel",
+      "noProducts": "No Products Yet",
+      "noProductsHint": "Create your first product to get started",
+      "deleting": "Deleting...",
+      "confirmDelete": "Are you sure you want to delete this product?",
+      "deleteFailed": "Failed to delete product",
+      "requiredFields": "Please fill in all required fields",
+      "createdAt": "Created: {{date}}"
+    }
+    ,
+    "categoryManagement": {
+      "title": "Categories",
+      "subtitle": "Manage your product categories",
+      "addButton": "Add Category",
+      "createTitle": "Create New Category",
+      "editTitle": "Edit Category",
+      "titleLabel": "Title *",
+      "titlePlaceholder": "Enter category title",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter category description",
+      "saveButton": "Save Category",
+      "cancelButton": "Cancel",
+      "noCategories": "No Categories Yet",
+      "noCategoriesHint": "Create your first category to get started",
+      "createdAt": "Created: {{date}}",
+      "productCount": "{{count}} products"
+    }
+  },
+  "language": {
+    "en": "English",
+    "tr": "Türkçe",
+    "nl": "Nederlands",
+    "ar": "العربية"
+  }
+ ,"login": {
+    "title": "Mom's Natural Foods",
+    "subtitle": "Premium natural foods made with love and care",
+    "highlight1": "100% Natural Ingredients",
+    "highlight2": "No Artificial Preservatives",
+    "highlight3": "Healthy & Delicious",
+    "highlight4": "Family Recipes",
+    "welcome": "Welcome Back",
+    "access": "Access your admin dashboard",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "signIn": "Sign In to Dashboard",
+    "signingIn": "Signing In...",
+    "secure": "Secure admin access to Mom's Natural Foods",
+    "viewPrivacy": "View Privacy Policy",
+    "privacyTitle": "Privacy Policy",
+    "effectiveDate": "Effective Date: October 13, 2025",
+    "introduction": "Mom's Natural Foods (\"Company\", \"we\", \"our\", or \"us\") operates the Mom's Natural Foods mobile and web application (the \"App\"). We value your privacy and are committed to protecting your personal data in compliance with applicable laws in Turkey, including the Law on the Protection of Personal Data (KVKK).",
+    "dataCollect": "We only collect the following personal data from our users:",
+    "dataEmail": "Email address",
+    "dataPassword": "Password",
+    "dataNoMore": "We do not collect, track, or store any additional information such as location, payment details, or browsing activity.",
+    "purpose": "The data collected is used solely for user authentication, account access, and secure login to our services.",
+    "storage": "Your personal data is securely stored on Hostinger servers located in Germany. We ensure that all data is encrypted and protected against unauthorized access or disclosure.",
+    "sharing": "We do not share, sell, or transfer your data to any other party, organization, or external domain. All data remains within our secure system hosted in Germany.",
+    "deletion": "Users may request the deletion of their account and associated data at any time by contacting us at info@site_url.nl. Upon verification, all personal data will be permanently removed from our servers.",
+    "contactTitle": "Contact Information",
+    "contactCompany": "Mom's Natural Foods",
+    "contactAddress": "Address: temp_address",
+    "contactWebsite": "Website: Site_url",
+    "contactEmail": "Email: info@site_url.nl",
+    "contactPhone": "Phone: +31 12345678",
+    "close": "Close",
+    "portal": "Mom's Natural Foods Admin Portal",
+    "error": "Login failed. Please try again."
+  }
+
+
+  
+}

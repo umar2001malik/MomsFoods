@@ -1,0 +1,630 @@
+{
+  "header": {
+    "home": "HOME",
+    "products": "PRODUCTEN",
+    "about": "OVER ONS",
+    "contact": "CONTACT",
+    "login": "INLOGGEN"
+  },
+  "navigation": {
+    "language": "Taal"
+  },
+  "hero": {
+    "lines": {
+      "noAddedSugar": "GEEN TOEGEVOEGDE SUIKER",
+      "ovenBakedWith": "GEBAKKEN MET",
+      "extraVirgin": "EXTRA VIERGE",
+      "oliveOil": "OLIJFOLIE",
+      "granola": "GRANOLA"
+    },
+    "features": {
+      "natural": "100% Natuurlijk",
+      "healthy": "Gezonde Keuze",
+      "affordable": "Betaalbaar",
+      "safe": "Veilig & Puur"
+    },
+    "button": {
+      "discover": "Ontdek Onze Granola"
+    }
+  },
+  "infoSection": {
+    "title": "Waarom Mom's Naturals Foods?",
+    "brandName": "MOM'S Naturals Foods",
+    "description": {
+      "part1": "Wij creëren",
+      "part2": "voor mensen die zowel gezondheid als smaak willen — geen compromissen.",
+      "part3": "Onze producten zijn vrij van chemische toevoegingen, kleurstoffen, smaakstoffen en suiker — alleen pure, natuurlijke ingrediënten."
+    },
+    "button": {
+      "learnMore": "Meer Informatie"
+    },
+    "media": {
+      "altText": "Natuurlijke Voeding"
+    }
+  },
+  "scrollingFeatures": {
+    "ovenBaked": "Oven Gebakken",
+    "highFiber": "Hoog vezelgehalte",
+    "allNatural": "Volledig natuurlijk",
+    "veganVegetarian": "Vegan, Vegetarisch",
+    "mineralsSource": "Magnesium, fosfor, ijzer en zink bron",
+    "vitaminsSource": "Thiamine (B1) en Vitamine E Bron",
+    "proteinSource": "Eiwitbron"
+  },
+  "products": {
+    "title": {
+      "line1": "Onze",
+      "natural": "Natuurlijke",
+      "line2": "Producten"
+    },
+    "description": {
+      "part1": "Ervaar de puurheid van de fijnste ingrediënten van de natuur, omgetoverd tot heerlijke traktaties die zowel lichaam als ziel voeden.",
+      "part2": "Elk product is met liefde en precisie vervaardigd, zodat elke hap een geweldige ervaring is van pure, natuurlijke goedheid."
+    },
+    "buttons": {
+      "seeMore": "Meer Zien",
+      "exploreAll": "Alle Producten Ontdekken"
+    },
+    "videoFallback": "Uw browser ondersteunt de video-tag niet.",
+    "granola": {
+      "name": "Granola",
+      "description": "Knapperige, gezonde granola gemaakt met natuurlijke haver en noten voor een gezonde start.",
+      "category": "GRANOLA 360GR",
+      "details": "GEOETMET MET APPELSAP • IJZERBRON • HOGE OMEGA 3",
+      "ingredients": "Havervlokken + Extra Vierge Olijfolie + Appelsap + Amandel + Walnoot + Hazelnoot + Zonnebloempitten + Pompoenpitten + Kokos + Lijnzaad + Tarwekiemen + Haverzemelen + Zwarte Bes + Kaneel",
+      "badges": ["HOGE VEZELS", "HOGE OMEGA"],
+      "weight": "360g"
+    },
+    "peachMelba": {
+      "name": "Perzik Melba",
+      "description": "Heerlijke perzik melba, natuurlijk gezoet met biologische vruchten.",
+      "category": "GLUTENVRIJE KOEKJE",
+      "details": "HOGE VEZELS • GEOETMET MET APPELSAP",
+      "ingredients": "Glutenvrije Havervlokken + Appelsapconcentraat + Kokos + Extra Vierge Olijfolie + Amandel + Chiazaden + Citroenolie + Zout",
+      "badges": ["GLUTENVRIJ", "HOGE VEZELS"],
+      "weight": "50g"
+    }
+  },
+  "whatMakesDifferent": {
+    "title": {
+      "line1": "Wat Maakt Ons",
+      "highlighted": "Anders"
+    },
+    "subtitle": "Zorgvuldig geselecteerde ingrediënten en een belofte van zuiverheid.",
+    "goodForYouTitle": "Goed Voor Jou",
+    "freeFromTitle": "Vrij Van",
+    "videoFallback": "Uw browser ondersteunt de video-tag niet.",
+    "goodForYou": [
+      "Kleine batch ambachtelijk proces",
+      "Echt Fruit",
+      "Volkoren",
+      "Oven Gebakken",
+      "Hoog vezelgehalte",
+      "Volledig natuurlijk",
+      "Vegan, Vegetarisch",
+      "Magnesium, fosfor, ijzer en zink bron",
+      "Thiamine (B1) en Vitamine E Bron",
+      "Eiwitbron"
+    ],
+    "freeFrom": [
+      "Geen palmolie",
+      "Geen toegevoegde suiker",
+      "Geen kunstmatige aroma's",
+      "Geen kunstmatige conserveermiddelen",
+      "Geen toevoegingen",
+      "Geen toegevoegd zout",
+      "Geen transvet",
+      "Geen gehydrogeneerde oliën",
+      "Geen glucosestroop met hoog fructosegehalte",
+      "Geen glucose"
+    ],
+    "footer": {
+      "part1": "Elk product is vervaardigd met",
+      "highlighted": "liefde en zorg",
+      "part2": ", zodat u alleen het beste krijgt ― natuurlijk."
+    }
+  },
+  "faq": {
+    "title": {
+      "line1": "Veel Gestelde",
+      "highlighted": "Vragen"
+    },
+    "subtitle": "Krijg antwoorden op de meest voorkomende vragen over onze natuurlijke producten",
+    "videoFallback": "Uw browser ondersteunt de video-tag niet.",
+    "questions": [
+      {
+        "question": "Zijn jullie producten 100% biologisch?",
+        "answer": "Ja! Al onze producten zijn gemaakt met 100% biologische ingrediënten, vrij van schadelijke chemicaliën, conserveermiddelen en kunstmatige smaakstoffen.",
+        "icon": "Sparkles"
+      },
+      {
+        "question": "Voegen jullie suiker of zoetstoffen toe?",
+        "answer": "Nee, we voegen nooit kunstmatige suiker of zoetstoffen toe. Onze producten zijn op natuurlijke wijze gezoet met biologische vruchten en honing.",
+        "icon": "Zap"
+      },
+      {
+        "question": "Is bezorging beschikbaar in heel Nederland?",
+        "answer": "Ja, we bezorgen onze producten landelijk met snelle en milieuvriendelijke verpakking.",
+        "icon": "Target"
+      },
+      {
+        "question": "Hoe moet ik Mom's Natural Foods producten bewaren?",
+        "answer": "We raden aan ze op een koele, droge plaats te bewaren. Producten zonder conserveermiddelen blijven van nature vers als ze goed worden bewaard.",
+        "icon": "Star"
+      },
+      {
+        "question": "Zijn jullie producten veilig voor kinderen?",
+        "answer": "Absoluut! Omdat onze voedingsmiddelen zijn gemaakt met natuurlijke en chemievrije ingrediënten, zijn ze volledig veilig en gezond voor kinderen.",
+        "icon": "Heart"
+      }
+    ],
+    "cta": {
+      "title": "Nog vragen?",
+      "description": "We zijn er om u te helpen de beste keuze te maken voor uw gezondheid",
+      "button": "Neem Contact Op"
+    }
+  },
+  "footer": {
+    "brandName": "MOM'S NATURAL",
+    "description": "Wij brengen u de puurste natuurlijke voedingsmiddelen gemaakt met moederliefde. Geen compromissen, alleen eerlijke ingrediënten en heerlijke smaken.",
+    "quickLinksTitle": "Snelle Links",
+    "contactTitle": "Neem Contact Op",
+    "newsletterTitle": "Nieuwsbrief",
+    "newsletterDescription": "Abonneer u om updates te ontvangen over nieuwe producten en gezonde recepten.",
+    "emailPlaceholder": "Uw e-mailadres",
+    "subscribeButton": "Nu Abonneren",
+    "successTitle": "Bedankt!",
+    "successMessage": "U bent succesvol geabonneerd!",
+    "copyright": "© 2025 Mom's Natural Foods. Alle rechten voorbehouden.",
+    "quickLinks": ["Home", "Producten", "Over Ons", "Contact"],
+    "contactInfo": [
+      { "icon": "MapPin", "text": "Keienbergweg 38A, 1101 GC Amsterdam, Nederland" },
+      { "icon": "Phone", "text": "+31 639216200" },
+      { "icon": "Mail", "text": "Contact@Momsnaturalfoods.nl  " }
+    ],
+    "policies": ["Privacybeleid", "Servicevoorwaarden", "Verzendbeleid", "Retourbeleid"]
+  },
+  "about": {
+    "hero": {
+      "title": "Ons Verhaal",
+      "subtitle": "Van een thuisk keuken naar uw tafel - een reis van passie, gezondheid en natuurlijke goedheid"
+    },
+    "story": {
+      "title": "Het Begin van Onze Reis",
+      "paragraphs": [
+       
+        "Het verhaal van de granola die ik ooit thuis maakte en die uiteindelijk een merknaam werd, gaat terug tot de herfst van 2011. Toen, op een paradijselijke plek in Bordubet, Marmaris, herinner ik me dat ik het detoxprogramma van mijn dierbare vriendin Hale bijwoonde, wat zoveel in mijn leven veranderde.",
+        "Hale was onlangs teruggekomen uit de Verenigde Staten, en de granola waarover ik door vele gesprekken met haar leerde, werd al snel een onmisbaar voedingsmiddel in ons huis.",
+        "Wat is granola eigenlijk? Kort gezegd wordt granola gemaakt door havermout te bakken met noten en gedroogd fruit, samen met een natuurlijke zoetstof zoals honing, totdat het knapperig wordt. Het ontstond als gezond voedsel in de Verenigde Staten in de jaren zestig tijdens de hippiebeweging.",
+        "Hoewel het later minder gezond werd door toevoegingen zoals geraffineerde suiker en soja, is het altijd mijn aandacht blijven trekken, omdat ik altijd gepassioneerd ben geweest over gezond en natuurlijk eten."
+      ]
+    },
+    "evolution": {
+      "title": "Van Thuisk keuken naar Uw Huis",
+      "imageAlt": "Onze evolutie",
+      "paragraphs": [
+
+        "Wat begon als een persoonlijke passie voor gezond eten groeide al snel uit tot iets groters. Vrienden en familie die onze zelfgemaakte granola proefden, moedigden ons aan om dit goede met anderen te delen.",
+        "We besloten trouw te blijven aan de oorspronkelijke gezonde principes van granola - alleen natuurlijke ingrediënten te gebruiken, geraffineerde suikers te vermijden en de voedingswaarde te behouden door zorgvuldige bereidingsmethoden.",
+        "Vandaag de dag zet Mom’s Natural Foods deze traditie voort en brengt u dezelfde liefde en zorg die we in de eerste batches uit onze eigen keuken stopten, nu beschikbaar voor uw gezin om van te genieten."
+      ]
+    },
+    "valuesTitle": "Onze Waarden",
+    "values": [
+      {
+        "icon": "Heart",
+        "title": "Gemaakt met Liefde",
+        "description": "Elk product is vervaardigd met dezelfde zorg en aandacht als we voor ons eigen gezin zouden doen."
+      },
+      {
+        "icon": "Leaf",
+        "title": "100% Natuurlijk",
+        "description": "Alleen de puurste ingrediënten uit de natuur, vrij van kunstmatige toevoegingen en conserveermiddelen."
+      },
+      {
+        "icon": "Shield",
+        "title": "Kwaliteit Gegarandeerd",
+        "description": "Rigoureuze kwaliteitscontroles zorgen ervoor dat u alleen de beste natuurlijke producten ontvangt."
+      },
+      {
+        "icon": "Users",
+        "title": "Gezinsgericht",
+        "description": "Gezonde opties creëren voor gezinnen die geven om wat ze consumeren."
+      },
+      {
+        "icon": "Target",
+        "title": "Onze Missie",
+        "description": "Gezond eten toegankelijk en heerlijk maken voor iedereen."
+      },
+      {
+        "icon": "Star",
+        "title": "Uitmuntendheid",
+        "description": "Toegewijd aan uitmuntendheid in elk aspect van onze producten dan service."
+      }
+    ],
+    "gallery": {
+      "title": "Onze Reis",
+      "imageAlt": "Onze reis {{number}}",
+      "memory": "Herinnering {{number}}"
+    },
+    "clickForDetails": "Klik voor details",
+    "modal": {
+      "details": "In Detail",
+      "benefits": "Belangrijkste Voordelen",
+      "commitment": "Onze Toewijding",
+      "footer": "Dit is wat Mom's Natural Foods bijzonder maakt"
+    },
+    "valueDetails": {
+      "Gemaakt met Liefde": {
+        "details": "Elke batch van onze producten wordt bereid met dezelfde liefde en zorg die we aan ons eigen gezin zouden geven. Dit betekent aandacht voor elk detail, van ingrediëntselectie tot uiteindelijke verpakking.",
+        "benefits": [
+          "Persoonlijke touch in elk product",
+          "Familie recepten doorgegeven door generaties",
+          "Ambachtelijk gemaakt in kleine batches voor kwaliteitscontrole",
+          "Gemaakt met oprechte zorg en aandacht"
+        ],
+        "commitment": "We geloven dat voedsel gemaakt met liefde beter smaakt en zowel lichaam als ziel voedt. Deze filosofie staat centraal in alles wat we creëren."
+      },
+      "100% Natuurlijk": {
+        "details": "We halen alleen de puurste ingrediënten rechtstreeks uit de natuur. Geen kunstmatige toevoegingen, conserveermiddelen of chemicaliën komen ooit in aanraking met onze producten.",
+        "benefits": [
+          "Geen kunstmatige kleuren of smaakstoffen",
+          "Vrij van conserveermiddelen en chemicaliën",
+          "Duurzaam geproduceerde ingrediënten",
+          "Transparante ingrediëntenlijsten"
+        ],
+        "commitment": "We zijn toegewijd aan het behouden van de natuurlijke integriteit van elk ingrediënt, zodat u de volledige voedingsvoordelen krijgt die de natuur bedoeld heeft."
+      },
+      "Kwaliteit Gegarandeerd": {
+        "details": "Ons rigoureuze kwaliteitscontroleproces zorgt ervoor dat elk product aan onze hoge normen voldoet voordat het uw huis bereikt.",
+        "benefits": [
+          "Meerdere kwaliteitscontrolepunten",
+          "Regelmatige laboratoriumtests",
+          "Versheidsgarantie",
+          "Consistente productkwaliteit"
+        ],
+        "commitment": "We staan achter elk product dat we maken. Als u niet volledig tevreden bent, zullen we het in orde maken."
+      },
+      "Gezinsgericht": {
+        "details": "We creëren producten waar gezinnen zich goed bij voelen om aan hun dierbaren te serveren, met focus op voeding, veiligheid en smaak.",
+        "benefits": [
+          "Veilig voor alle gezinsleden",
+          "Voedingskundig gebalanceerde opties",
+          "Kindvriendelijke smaken",
+          "Gezinsverpakkingen"
+        ],
+        "commitment": "We zijn niet zomaar een bedrijf - we zijn een familie die gezinnen dient, toegewijd aan het gemakkelijk maken van gezonde keuzes."
+      },
+      "Onze Missie": {
+        "details": "Gezond, natuurlijk eten toegankelijk en plezierig maken voor iedereen, zonder compromissen op smaak of kwaliteit.",
+        "benefits": [
+          "Betaalbare gezonde opties",
+          "Breed productassortiment",
+          "Educatieve bronnen",
+          "Gemeenschapsondersteuning"
+        ],
+        "commitment": "We zijn toegewijd aan het wegnemen van barrières voor gezond eten en het maken van natuurlijke voeding een vreugdevol onderdeel van het dagelijks leven."
+      },
+      "Uitmuntendheid": {
+        "details": "We streven naar uitmuntendheid in elk aspect van ons bedrijf, van productontwikkeling tot klantenservice.",
+        "benefits": [
+          "Continue productverbetering",
+          "Uitzonderlijke klantenservice",
+          "Innovatieve productontwikkeling",
+          "Duurzame bedrijfspraktijken"
+        ],
+        "commitment": "We zijn nooit tevreden met 'goed genoeg' en zijn altijd op zoek naar manieren om te verbeteren en u beter te bedienen."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Neem Contact Op",
+      "subtitle": "We horen graag van u. Stuur ons een bericht en we reageren zo snel mogelijk."
+    },
+    "contactInfo": [
+      {
+        "icon": "Phone",
+        "title": "Telefoon",
+        "details": "+31 639216200",
+        "description": "Ma t/m vr 9:00 - 18:00",
+        "color": "from-blue-500 to-cyan-400"
+      },
+      {
+        "icon": "Mail",
+        "title": "E-mail",
+        "details": "Contact@Momsnaturalfoods.nl  ",
+        "description": "Stuur ons uw vraag altijd!",
+        "color": "from-green-500 to-emerald-400"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Adres",
+        "details": "Keienbergweg 38A 1101 GC - Amsterdam Nederlands",
+        "description": "",
+        "color": "from-red-500 to-cyan-400"
+      },
+      {
+        "icon": "Clock",
+        "title": "Werkuren",
+        "details": "maandag tot en met vrijdag",
+        "description": "9:00 AM - 5:00 PM",
+        "color": "from-purple-500 to-indigo-400"
+      }
+    ],
+    "form": {
+      "title": "Stuur Ons een Bericht",
+      "description": "Heeft u vragen over onze natuurlijke producten? We zijn hier om te helpen en horen graag van u.",
+      "labels": {
+        "name": "Volledige Naam",
+        "email": "E-mailadres",
+        "phone": "Telefoonnummer",
+        "subject": "Onderwerp",
+        "message": "Bericht"
+      },
+      "placeholders": {
+        "name": "Uw volledige naam",
+        "email": "Contact@Momsnaturalfoods.nl  ",
+        "phone": "+31 639216200",
+        "subject": "Waar gaat dit over?",
+        "message": "Vertel ons meer over uw vraag..."
+      },
+      "button": "Bericht Verzenden",
+      "submitting": "Verzenden..."
+    },
+    "success": {
+      "title": "Bedankt!",
+      "message": "Uw bericht is succesvol verzonden.",
+      "details": "We nemen binnen 24 uur contact met u op."
+    },
+    "location": {
+      "title": "Bezoek Onze Locatie",
+      "mapTitle": "Moms Natural Locatie - Keienbergweg 38A, 1101 GC, Amsterdam, Nederland",
+      "addressTitle": "Ons Adres",
+      "address": "Keienbergweg 38A, 1101 GC, Amsterdam, Nederland",
+      "addressDescription": "Gelegen in de Güzeller Georganiseerde Industriële Zone, is onze faciliteit gemakkelijk bereikbaar en verwelkomen we bezoekers op afspraak."
+    },
+    "faq": {
+      "title": "Veel Gestelde Vragen",
+      "questions": [
+        {
+          "question": "Hoe lang duurt de verzending?",
+          "answer": "We verwerken en verzenden bestellingen meestal binnen 1-2 werkdagen. Levering duurt 3-5 werkdagen in heel Turkije."
+        },
+        {
+          "question": "Bieden u groothandelsprijzen?",
+          "answer": "Ja! We bieden speciale groothandelsprijzen voor retailers en bedrijven. Neem contact met ons op voor meer details."
+        },
+        {
+          "question": "Zijn jullie producten echt 100% natuurlijk?",
+          "answer": "Absoluut! Al onze producten zijn gemaakt met 100% natuurlijke ingrediënten, vrij van kunstmatige toevoegingen en conserveermiddelen."
+        },
+        {
+          "question": "Kan ik jullie faciliteit bezoeken?",
+          "answer": "We verwelkomen bezoekers op afspraak. Neem contact met ons op om een bezoek aan onze productiefaciliteit in Güzeller OSB te plannen."
+        }
+      ]
+    },
+    "login": {
+  "welcome": "Welkom Terug",
+  "accessDashboard": "Toegang tot uw beheerdersdashboard",
+  "subtitle": "Premium natuurlijke voeding gemaakt met liefde en zorg",
+  "features": {
+    "natural": "100% Natuurlijke Ingrediënten",
+    "noPreservatives": "Geen Kunstmatige Conserveermiddelen",
+    "healthy": "Gezond & Lekker",
+    "familyRecipes": "Familie Recepten"
+  },
+  "emailLabel": "E-mailadres",
+  "emailPlaceholder": "Voer uw e-mail in",
+  "passwordLabel": "Wachtwoord",
+  "passwordPlaceholder": "Voer uw wachtwoord in",
+  "rememberMe": "Onthoud mij",
+  "forgotPassword": "Wachtwoord vergeten?",
+  "forgotPasswordToast": "📧 Wachtwoord reset functie komt binnenkort!",
+  "signInButton": "Inloggen op Dashboard",
+  "signingIn": "Inloggen...",
+  "secureAccess": "Veilige beheerders toegang tot Mom's Natural Foods",
+  "adminPortal": "Mom's Natural Foods Beheerportaal",
+  "successMessage": "🎉 Inloggen succesvol! Doorsturen...",
+  "errorMessage": "Inloggen mislukt. Probeer het opnieuw.",
+  "genericError": "Er is een fout opgetreden tijdens het inloggen. Probeer het opnieuw."
+}
+  },
+  "product": {
+    "allProducts": "Alle Producten",
+    "discover": "Ontdek ons complete assortiment gezonde, lekkere producten gemaakt met natuurlijke ingrediënten.",
+    "allCategories": "Alle Categorieën",
+    "showingAll": "Toon alle",
+    "showing": "Toon",
+    "product": "product",
+    "products": "producten",
+    "of": "van",
+    "in": "in",
+    "clear": "Wissen",
+    "viewMore": "Bekijk Meer",
+    "loading": "Producten laden...",
+    "tryAgain": "Probeer opnieuw",
+    "noProductsFound": "Geen producten gevonden",
+    "noProductsInCategory": "Geen producten gevonden in de geselecteerde categorie.",
+    "showAllProducts": "Toon Alle Producten"
+  },
+  
+  "productDetail": {
+    "backToProducts": "Terug naar Producten",
+    "loadingProduct": "Product laden...",
+    "productNotFound": "Product niet gevonden.",
+    "goBack": "Ga Terug",
+    "ingredients": "Ingrediënten",
+    "noIngredients": "Geen ingrediënteninformatie beschikbaar.",
+    "nutritionFacts": "Voedingswaarden",
+    "noNutrition": "Geen voedingsinformatie beschikbaar.",
+    "nutrient": "Voedingsstof",
+    "per100g": "Per 100g",
+    "portion": "Portie",
+    "ri100g": "RI% (100g)",
+    "riPortion": "RI% (Portie)",
+    "loadingImage": "Afbeelding laden...",
+    "highlights": "Product Hoogtepunten",
+    "highlight1": "Gezoet met Appel Sap",
+    "highlight2": "Rijk aan Vezels & Omega-3",
+    "highlight3": "Alleen Natuurlijke Ingrediënten",
+    "highlight4": "Geen Kunstmatige Bewaarstoffen",
+    "conventional": "CONVENTIONEEL PRODUCT",
+    "viewIngredients": "Bekijk Ingrediënten",
+    "nutritionFactsButton": "Voedingswaarden",
+    "perfectWith": "Perfect Met",
+    "withMilk": "Melk",
+    "withYoghurt": "Yoghurt",
+    "withIceCream": "IJs",
+    "plain": "Gewoon",
+    "uncategorized": "Ongecategoriseerd",
+    "product": "Product",
+    "noDescription": "Geen beschrijving beschikbaar."
+  },
+  
+  "login": {
+    "welcomeBack": "Welkom Terug",
+    "accessDashboard": "Toegang tot uw admin-dashboard",
+    "emailLabel": "E-mailadres",
+    "emailPlaceholder": "Voer uw e-mail in",
+    "passwordLabel": "Wachtwoord",
+    "passwordPlaceholder": "Voer uw wachtwoord in",
+    "showPassword": "Wachtwoord tonen",
+    "hidePassword": "Wachtwoord verbergen",
+    "rememberMe": "Onthoud mij",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "signInButton": "Inloggen op Dashboard",
+    "signingIn": "Bezig met inloggen...",
+    "secureAdmin": "Beveiligde admin-toegang tot Mom's Natural Foods",
+    "adminPortal": "Mom's Natural Foods Admin Portaal",
+    "brandTitle": "Mom's Natural Foods",
+    "brandSubtitle": "Premium natuurlijke voedingsmiddelen met liefde gemaakt",
+    "feature1": "100% Natuurlijke Ingrediënten",
+   
+    "feature2": "Geen Kunstmatige Conserveringsmiddelen",
+    "feature3": "Gezond & Lekker",
+    "feature4": "Familie Recepten",
+    "toastSuccess": "Inloggen geslaagd! Doorsturen...",
+    "toastError": "Inloggen mislukt. Probeer opnieuw.",
+    "toastNetworkError": "Er is een fout opgetreden tijdens het inloggen. Probeer opnieuw.",
+    "toastForgotPassword": "Wachtwoordherstel komt binnenkort!"
+  }
+, 
+  "admin": {
+    "panel": "Beheerderpaneel",
+    "subtitle": "Moeders Natuurlijke Voeding",
+    "categories": "Categorieën",
+    "products": "Producten",
+    "logout": "Uitloggen",
+    "productManagement": {
+      "title": "Producten",
+      "subtitle": "Beheer uw natuurlijke voedselproducten",
+      "addButton": "Product Toevoegen",
+      "createTitle": "Nieuw Product Maken",
+      "editTitle": "Product Bewerken",
+      "titleLabel": "Product Titel *",
+      "titlePlaceholder": "Voer producttitel in",
+      "categoryLabel": "Categorie *",
+      "categoryPlaceholder": "Selecteer Categorie",
+      "descriptionLabel": "Beschrijving",
+      "descriptionPlaceholder": "Voer productbeschrijving in",
+      "imagesLabel": "Product Afbeeldingen",
+      "existingImages": "Bestaande Afbeeldingen",
+      "addMoreImages": "Meer Afbeeldingen Toevoegen",
+      "uploadImages": "Klik om afbeeldingen te uploaden",
+      "multipleImages": "Meerdere afbeeldingen kunnen worden geselecteerd",
+      "newImages": "Nieuwe Afbeeldingen om te Uploaden",
+      "nutritionLabel": "Voedingsinformatie",
+      "addNutrition": "Voeding Toevoegen",
+      "nutrientName": "Voedingsstof Naam",
+      "nutrientPlaceholder": "bijv. Vet, Eiwit",
+      "per100g": "PER 100 G",
+      "per100gPlaceholder": "bijv. 21.5g",
+      "ri100g": "RI%* VOOR 100 G",
+      "ri100gPlaceholder": "bijv. 31",
+      "portion": "1 PORTIE (40 G)",
+      "portionPlaceholder": "bijv. 8.6g",
+      "riPortion": "RI%* VOOR 40 G",
+      "riPortionPlaceholder": "bijv. 12",
+      "ingredientsLabel": "Ingrediënten Informatie",
+      "addIngredient": "Ingrediënt Toevoegen",
+      "ingredientPlaceholder": "Voer ingrediënt in",
+      "saveButton": "Product Opslaan",
+      "updateButton": "Product Bijwerken",
+      "saving": "Opslaan...",
+      "cancelButton": "Annuleren",
+      "noProducts": "Nog Geen Producten",
+      "noProductsHint": "Maak uw eerste product om te beginnen",
+      "deleting": "Verwijderen...",
+      "confirmDelete": "Weet u zeker dat u dit product wilt verwijderen?",
+      "deleteFailed": "Verwijderen mislukt",
+      "requiredFields": "Vul alle verplichte velden in",
+      "createdAt": "Aangemaakt: {{date}}"
+    }
+    ,
+    "categoryManagement": {
+      "title": "Categorieën",
+      "subtitle": "Beheer uw productcategorieën",
+      "addButton": "Categorie Toevoegen",
+      "createTitle": "Nieuwe Categorie Maken",
+      "editTitle": "Categorie Bewerken",
+      "titleLabel": "Titel *",
+      "titlePlaceholder": "Voer categorietitel in",
+      "descriptionLabel": "Beschrijving",
+      "descriptionPlaceholder": "Voer categoriebeschrijving in",
+      "saveButton": "Categorie Opslaan",
+      "cancelButton": "Annuleren",
+      "noCategories": "Nog Geen Categorieën",
+      "noCategoriesHint": "Maak uw eerste categorie om te beginnen",
+      "createdAt": "Aangemaakt: {{date}}",
+      "productCount": "{{count}} producten"
+    }
+  },
+  "language": {
+    "en": "Engels",
+    "tr": "Türkçe",
+    "nl": "Nederlands",
+    "ar": "العربية"
+  },
+  "login": {
+    "title": "Moeders Natuurlijke Voeding",
+    "subtitle": "Premium natuurlijke voeding gemaakt met liefde en zorg",
+    "highlight1": "100% Natuurlijke Ingrediënten",
+    "highlight2": "Geen Kunstmatige Conserveermiddelen",
+    "highlight3": "Gezond & Heerlijk",
+    "highlight4": "Familie Recepten",
+    "welcome": "Welkom Terug",
+    "access": "Toegang tot uw admin dashboard",
+    "emailLabel": "E-mailadres",
+    "emailPlaceholder": "Voer uw e-mail in",
+    "passwordLabel": "Wachtwoord",
+    "passwordPlaceholder": "Voer uw wachtwoord in",
+    "remember": "Onthoud mij",
+    "forgot": "Wachtwoord vergeten?",
+    "signIn": "Inloggen op Dashboard",
+    "signingIn": "Aanmelden...",
+    "secure": "Veilige admin toegang tot Moeders Natuurlijke Voeding",
+    "viewPrivacy": "Bekijk Privacybeleid",
+    "privacyTitle": "Privacybeleid",
+    "effectiveDate": "Ingangsdatum: 13 oktober 2025",
+    "introduction": "Moeders Natuurlijke Voeding (\"Bedrijf\", \"wij\", \"onze\" of \"ons\") beheert de Moeders Natuurlijke Voeding mobiele en webapplicatie (de \"App\"). Wij waarderen uw privacy en zijn toegewijd aan het beschermen van uw persoonlijke gegevens in overeenstemming met de toepasselijke wetten in Turkije, inclusief de Wet op de Bescherming van Persoonsgegevens (KVKK).",
+    "dataCollect": "Wij verzamelen alleen de volgende persoonlijke gegevens van onze gebruikers:",
+    "dataEmail": "E-mailadres",
+    "dataPassword": "Wachtwoord",
+    "dataNoMore": "Wij verzamelen, volgen of opslaan geen aanvullende informatie zoals locatie, betalingsgegevens of browse-activiteit.",
+    "purpose": "De verzamelde gegevens worden uitsluitend gebruikt voor gebruikersverificatie, accounttoegang en veilige inlog op onze diensten.",
+    "storage": "Uw persoonlijke gegevens worden veilig opgeslagen op Hostinger servers gelegen in Duitsland. Wij zorgen ervoor dat alle gegevens versleuteld zijn en beschermd tegen ongeautoriseerde toegang of openbaarmaking.",
+    "sharing": "Wij delen, verkopen of overdragen uw gegevens niet aan enige andere partij, organisatie of extern domein. Alle gegevens blijven binnen ons veilige systeem gehost in Duitsland.",
+    "deletion": "Gebruikers kunnen te allen tijde het verwijderen van hun account en bijbehorende gegevens aanvragen door contact op te nemen via info@site_url.nl. Na verificatie zullen alle persoonlijke gegevens permanent van onze servers worden verwijderd.",
+    "contactTitle": "Contactinformatie",
+    "contactCompany": "Moeders Natuurlijke Voeding",
+    "contactAddress": "Adres: temp_address",
+    "contactWebsite": "Website: Site_url",
+    "contactEmail": "E-mail: info@site_url.nl",
+    "contactPhone": "Telefoon: +31 12345678",
+    "close": "Sluiten",
+    "portal": "Moeders Natuurlijke Voeding Admin Portaal",
+    "error": "Inloggen mislukt. Probeer opnieuw."
+  }
+}
