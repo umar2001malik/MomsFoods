@@ -2466,7 +2466,9 @@
 
   // export default ProductManagement;
 
-  import React, { useState, useEffect } from 'react';
+
+
+  import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Plus, Edit2, Trash2, Save, X, Upload, ShoppingBag, Loader, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useAPI } from '../Context/AuthContext';
@@ -2610,6 +2612,7 @@ const ProductManagement = () => {
   const [existingImages, setExistingImages] = useState([]);
   const [deletingId, setDeletingId] = useState(null);
   const [imagesToDelete, setImagesToDelete] = useState([]);
+    const formRef = useRef(null);
   const [formData, setFormData] = useState({
     title: '',
     category_id: '',
@@ -2672,28 +2675,58 @@ const ProductManagement = () => {
     fetchProducts();
   }, [ListCategories, ListProducts]);
 
-  const handleCreate = () => {
-    setIsCreating(true);
-    setEditingId(null);
-    setFormData({
-      title: '',
-      category_id: '',
-      description: '',
-      nutrition: [{ 
-        name: '', 
-        per_100g: '', 
-        ri_percent_100g: '', 
-        portion: '', 
-        ri_percent_portion: '' 
-      }],
-      ingredients: ['']
-    });
-    setSelectedImages([]);
-    setImages([]);
-    setExistingImages([]);
-    setImagesToDelete([]);
-  };
+  // const handleCreate = () => {
+  //   setIsCreating(true);
+  //   setEditingId(null);
+  //   setFormData({
+  //     title: '',
+  //     category_id: '',
+  //     description: '',
+  //     nutrition: [{ 
+  //       name: '', 
+  //       per_100g: '', 
+  //       ri_percent_100g: '', 
+  //       portion: '', 
+  //       ri_percent_portion: '' 
+  //     }],
+  //     ingredients: ['']
+  //   });
+  //   setSelectedImages([]);
+  //   setImages([]);
+  //   setExistingImages([]);
+  //   setImagesToDelete([]);
+  // };
+const handleCreate = () => {
+  setIsCreating(true);
+  setEditingId(null);
+  setFormData({
+    title: '',
+    category_id: '',
+    description: '',
+    nutrition: [{ 
+      name: '', 
+      per_100g: '', 
+      ri_percent_100g: '', 
+      portion: '', 
+      ri_percent_portion: '' 
+    }],
+    ingredients: ['']
+  });
+  setSelectedImages([]);
+  setImages([]);
+  setExistingImages([]);
+  setImagesToDelete([]);
 
+  // Add this scroll behavior
+  setTimeout(() => {
+    if (formRef.current) {
+      formRef.current.scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'start' 
+      });
+    }
+  }, 100);
+};
   const handleImageUpload = (e) => {
     const files = Array.from(e.target.files);
     setSelectedImages(prev => [...prev, ...files]);
@@ -2894,35 +2927,75 @@ const ProductManagement = () => {
     }
   };
 
+  // const handleEdit = (product) => {
+  //   setEditingId(product.id);
+  //   setIsCreating(false);
+  //   setFormData({
+  //     title: product.title,
+  //     category_id: product.category_id.toString(),
+  //     description: product.description,
+  //     nutrition: product.nutrition && product.nutrition.length > 0 ? product.nutrition : [{ 
+  //       name: '', 
+  //       per_100g: '', 
+  //       ri_percent_100g: '', 
+  //       portion: '', 
+  //       ri_percent_portion: '' 
+  //     }],
+  //     ingredients: product.ingredients && product.ingredients.length > 0 ? product.ingredients : ['']
+  //   });
+  //   setSelectedImages([]);
+  //   setImages([]);
+    
+  //   // Store existing images with their full details including filenames
+  //   const existingImagesData = product.imageDetails || 
+  //     (product.images ? product.images.map(img => ({ 
+  //       url: img, 
+  //       filename: img.split('/').pop() // Extract filename from URL as fallback
+  //     })) : []);
+    
+  //   setExistingImages(existingImagesData);
+  //   setImagesToDelete([]);
+  // };
+
   const handleEdit = (product) => {
-    setEditingId(product.id);
-    setIsCreating(false);
-    setFormData({
-      title: product.title,
-      category_id: product.category_id.toString(),
-      description: product.description,
-      nutrition: product.nutrition && product.nutrition.length > 0 ? product.nutrition : [{ 
-        name: '', 
-        per_100g: '', 
-        ri_percent_100g: '', 
-        portion: '', 
-        ri_percent_portion: '' 
-      }],
-      ingredients: product.ingredients && product.ingredients.length > 0 ? product.ingredients : ['']
-    });
-    setSelectedImages([]);
-    setImages([]);
-    
-    // Store existing images with their full details including filenames
-    const existingImagesData = product.imageDetails || 
-      (product.images ? product.images.map(img => ({ 
-        url: img, 
-        filename: img.split('/').pop() // Extract filename from URL as fallback
-      })) : []);
-    
-    setExistingImages(existingImagesData);
-    setImagesToDelete([]);
-  };
+  setEditingId(product.id);
+  setIsCreating(false);
+  setFormData({
+    title: product.title,
+    category_id: product.category_id.toString(),
+    description: product.description,
+    nutrition: product.nutrition && product.nutrition.length > 0 ? product.nutrition : [{ 
+      name: '', 
+      per_100g: '', 
+      ri_percent_100g: '', 
+      portion: '', 
+      ri_percent_portion: '' 
+    }],
+    ingredients: product.ingredients && product.ingredients.length > 0 ? product.ingredients : ['']
+  });
+  setSelectedImages([]);
+  setImages([]);
+  
+  // Store existing images with their full details including filenames
+  const existingImagesData = product.imageDetails || 
+    (product.images ? product.images.map(img => ({ 
+      url: img, 
+      filename: img.split('/').pop() // Extract filename from URL as fallback
+    })) : []);
+  
+  setExistingImages(existingImagesData);
+  setImagesToDelete([]);
+
+  // Add this scroll behavior - scroll after a small delay to ensure form is rendered
+  setTimeout(() => {
+    if (formRef.current) {
+      formRef.current.scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'start' 
+      });
+    }
+  }, 100);
+};
 
   const handleDelete = async (id) => {
     if (window.confirm('Are you sure you want to delete this product?')) {

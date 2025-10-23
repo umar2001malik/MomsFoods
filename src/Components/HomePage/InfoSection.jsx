@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import video2 from "../../assets/milk_video.mp4";
-import image2 from "../../assets/image67.png";
+import image2 from "../../assets/product_images.png";
 import image4 from "../../assets/image4.png";
 import video3 from "../../assets/video_dryFruit.mp4";
 import backgroundVideo from "../../assets/video7.mp4"; 
