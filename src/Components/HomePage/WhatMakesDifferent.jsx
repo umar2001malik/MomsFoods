@@ -158,7 +158,7 @@ const WhatMakesDifferent = () => {
       key={index}
       variants={itemVariants}
       whileHover="hover"
-      className="flex items-start space-x-3 text-[#8B5E3C] p-3 rounded-xl hover:bg-[#F8E7D3] transition-all duration-300 border border-transparent hover:border-[#EED7B5] cursor-pointer group relative overflow-hidden"
+      className="flex items-start space-x-3 text-[#8B5E3C] p-1 md:p-3 rounded-xl hover:bg-[#F8E7D3] transition-all duration-300 border border-transparent hover:border-[#EED7B5] cursor-pointer group relative overflow-hidden"
     >
       {/* Background shine effect */}
       <motion.div
@@ -366,7 +366,7 @@ const WhatMakesDifferent = () => {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true }}
-              className="grid md:grid-cols-2 gap-4 relative z-10"
+              className="grid md:grid-cols-2 gap-0 md:gap-4 relative z-10"
             >
               {goodForYou.map((item, index) => (
                 <AnimatedListItem 
@@ -416,7 +416,7 @@ const WhatMakesDifferent = () => {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true }}
-              className="grid md:grid-cols-2 gap-4 relative z-10"
+              className="grid md:grid-cols-2 gap-0 md:gap-4 relative z-10"
             >
               {freeFrom.map((item, index) => (
                 <AnimatedListItem 

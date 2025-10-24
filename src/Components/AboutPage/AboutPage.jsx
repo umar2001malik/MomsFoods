@@ -1452,7 +1452,7 @@ const AboutPage = () => {
                   isModalOpen && clickedCardIndex !== index ? 'opacity-30 blur-sm scale-95' : ''
                 }`}
                 style={{ 
-                  minHeight: '400px', // Increased card height
+                  minHeight: 'auto', // Increased card height
                   height: '100%'
                 }}
               >
@@ -1473,7 +1473,7 @@ const AboutPage = () => {
 
                 <motion.div
                   whileHover={{ scale: 1.05 }}
-                  className="inline-flex items-center gap-2 text-[#8B5E3C] font-semibold text-xs md:text-sm lg:text-base 2xl:text-lg"
+                  className="inline-flex items-center gap-2 text-[#8B5E3C] font-semibold text-xs md:text-sm lg:text-base 2xl:text-lg pb-4 sm:pb-6 md:pb-0"
                 >
                   <span>{t('about.clickForDetails')}</span>
                 </motion.div>

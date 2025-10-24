@@ -189,138 +189,135 @@
     "policies": ["Gizlilik Politikası", "Hizmet Şartları", "Kargo Politikası", "İade Politikası"]
   }
 ,
-  "about": {
+"about": {
     "hero": {
       "title": "Hikayemiz",
-      "subtitle": "Ev mutfağından sizin sofranıza - bir tutku, sağlık ve doğal güzellik yolculuğu"
+      "subtitle": "Ev mutfağından sofranıza - tutku, sağlık ve doğallıkla dolu bir yolculuk"
     },
     "story": {
       "title": "Yolculuğumuzun Başlangıcı",
       "paragraphs": [
-       
-        "Evde yapmaya başladığım granolaların bir marka adına dönüşme hikayesi 2011 sonbaharına kadar uzanıyor. O zamanlar, Marmaris’in cennet köşelerinden biri olan Bördübet’te, sevgili arkadaşım Hale’in detoks programına katılmıştım ve bu deneyim hayatımda pek çok şeyi değiştirdi.",
-        "Hale kısa süre önce Amerika Birleşik Devletleri’nden dönmüştü ve onunla yaptığımız sayısız sohbetten sonra öğrendiğim granola, evimizde vazgeçilmez bir yiyecek haline geldi.",
-        "Peki, granola dediğimiz şey neydi? Kısaca, yulaf ezmesinin fındık, kuru meyveler ve bal gibi doğal bir tatlandırıcıyla fırınlanmasıyla yapılan gevrek bir yiyecektir. 1960’larda Amerika’daki hippi hareketiyle birlikte sağlıklı bir yiyecek olarak ortaya çıktı.",
-        "Daha sonra rafine şeker, soya ve benzeri katkılarla sağlıklı bir seçenek olmaktan uzaklaşsa da, doğal ve sağlıklı beslenmeye olan tutkum nedeniyle her zaman ilgimi çekmiştir."
+        "Evde yaptığım granolanın bir marka haline gelme hikayesi 2011 sonbaharına kadar uzanıyor. O zamanlar, Marmaris’in cennet köşesi Bordubet’te sevgili arkadaşım Hale’nin detoks programına katıldığımı hatırlıyorum; bu deneyim hayatımda çok şeyi değiştirdi.",
+        "Hale kısa süre önce Amerika Birleşik Devletleri’nden dönmüştü ve onunla yaptığımız birçok sohbet sayesinde granolayı tanıdım. Kısa sürede evimizin vazgeçilmez bir besini haline geldi.",
+        "Peki granola tam olarak nedir? Kısaca açıklamak gerekirse, granola; yulaf ezmesinin, kuruyemişlerin ve kuru meyvelerin doğal bir tatlandırıcı (örneğin bal) ile birlikte fırınlanmasıyla elde edilir. 1960’lı yıllarda ABD’deki hippi hareketi sırasında sağlıklı bir yiyecek olarak ortaya çıkmıştır.",
+        "Daha sonraları rafine şeker ve soya gibi katkılarla sağlıksız hale gelse de, ben her zaman doğal ve sağlıklı beslenmeye tutkuyla bağlı olduğum için ilgimi çekmeye devam etti."
       ]
     },
     "evolution": {
-      "title": "Ev Mutfağından Sizin Evinize",
-      "imageAlt": "Gelişimimiz",
+      "title": "Ev Mutfağından Evinize",
+      "imageAlt": "Evrimimiz",
       "paragraphs": [
-             
-        "Sağlıklı beslenmeye olan kişisel tutkumuz kısa sürede daha büyük bir şeye dönüştü. Ev yapımı granolamızı tadan arkadaşlarımız ve ailemiz, bu güzelliği başkalarıyla da paylaşmamız için bizi teşvik etti.",
-        "Granolayı özgün ve sağlıklı kılan ilkelere sadık kalmaya karar verdik - yalnızca doğal malzemeler kullanarak, rafine şekerden uzak durarak ve besin değerini özenli hazırlık yöntemleriyle koruyarak.",
-        "Bugün Mom’s Natural Foods, ilk olarak ev mutfağımızda sevgiyle hazırladığımız o granolaların geleneğini sürdürüyor ve aynı özenle yapılmış bu lezzeti ailelerinizle buluşturuyor."
+        "Sağlıklı beslenmeye olan kişisel tutku, kısa sürede daha büyük bir şeye dönüştü. Ev yapımı granolamızı tadan arkadaşlar ve ailemiz, bu iyiliği başkalarıyla da paylaşmamız için bizi cesaretlendirdi.",
+        "Granolanın orijinal sağlıklı prensiplerine sadık kalmaya karar verdik – yalnızca doğal içerikler kullanmak, rafine şekerden kaçınmak ve besin değerini korumak için özenli pişirme yöntemleri uygulamak.",
+        "Bugün Mom’s Natural Foods, bu geleneği sürdürerek ilk mutfak partilerimizde gösterdiğimiz aynı sevgi ve özeni sizin ailenize de ulaştırıyor."
       ]
     },
     "valuesTitle": "Değerlerimiz",
     "values": [
       {
         "icon": "Heart",
-        "title": "Sevgiyle Yapıldı",
-        "description": "Her ürün, kendi ailemiz için yapacağımız aynı özen ve dikkatle hazırlanır."
+        "title": "Sevgiyle Üretilmiştir",
+        "description": "Her ürünümüz, kendi ailemiz için gösterdiğimiz özen ve dikkatle hazırlanır."
       },
       {
         "icon": "Leaf",
         "title": "%100 Doğal",
-        "description": "Sadece doğadan gelen en saf malzemeler, yapay katkı maddeleri ve koruyuculardan arındırılmış."
+        "description": "Doğadan gelen en saf içerikler; yapay katkı, koruyucu veya renklendirici içermez."
       },
       {
         "icon": "Shield",
-        "title": "Kalite Garantili",
-        "description": "Sıkı kalite kontrolleri, sadece en iyi doğal ürünleri aldığınızdan emin olur."
+        "title": "Kalite Garantisi",
+        "description": "Titiz kalite kontrolleri sayesinde size sadece en iyi doğal ürünler ulaşır."
       },
       {
         "icon": "Users",
         "title": "Aile Odaklı",
-        "description": "Ne tükettiklerine önem veren aileler için sağlıklı seçenekler yaratıyoruz."
+        "description": "Tükettiği gıdaya önem veren aileler için sağlıklı seçenekler sunuyoruz."
       },
       {
         "icon": "Target",
         "title": "Misyonumuz",
-        "description": "Sağlıklı beslenmeyi herkes için erişilebilir ve lezzetli hale getirmek."
+        "description": "Sağlıklı beslenmeyi herkes için ulaşılabilir ve lezzetli hale getirmek."
       },
       {
         "icon": "Star",
         "title": "Mükemmellik",
-        "description": "Ürünlerimizin ve hizmetimizin her yönünde mükemmelliğe bağlıyız."
+        "description": "Ürünlerimizin ve hizmetimizin her alanında mükemmelliğe adanmışız."
       }
     ],
     "gallery": {
       "title": "Yolculuğumuz",
       "imageAlt": "Yolculuğumuz {{number}}",
       "memory": "Anı {{number}}"
-    }
-  }
-,
-"clickForDetails": "Detaylar için tıklayın",
-  "modal": {
-    "details": "Derinlemesine",
-    "benefits": "Temel Faydalar",
-    "commitment": "Taahhüdümüz",
-    "footer": "Bu, Mom's Natural Foods'u özel yapan şeydir"
-  },
-  "valueDetails": {
-    "Made with Love": {
-      "details": "Ürünlerimizin her partisi, kendi ailemize vereceğimiz aynı sevgi ve özenle hazırlanır. Bu, malzeme seçiminden nihai paketlemeye kadar her detaya dikkat etmek anlamına gelir.",
-      "benefits": [
-        "Her üründe kişisel dokunuş",
-        "Nesiller boyu aktarılan aile tarifleri",
-        "Kalite kontrolü için küçük partiler halinde el yapımı",
-        "Samimi özen ve dikkatle hazırlanmış"
-      ],
-      "commitment": "Sevgiyle yapılan yemeğin daha lezzetli olduğuna ve hem bedeni hem de ruhu beslediğine inanıyoruz. Bu felsefe, yarattığımız her şeyin merkezindedir."
     },
-    "100% Natural": {
-      "details": "Sadece en saf malzemeleri doğrudan doğadan temin ediyoruz. Hiçbir yapay katkı maddesi, koruyucu veya kimyasal ürünlerimize asla değmez.",
-      "benefits": [
-        "Yapay renkler veya aromalar yok",
-        "Koruyucu ve kimyasallardan arındırılmış",
-        "Sürdürülebilir kaynaklı malzemeler",
-        "Şeffaf malzeme listeleri"
-      ],
-      "commitment": "Her malzemenin doğal bütünlüğünü korumaya, doğanın amaçladığı tam besinsel faydaları almanızı sağlamaya kararlıyız."
+    "clickForDetails": "Detaylar için tıklayın",
+    "modal": {
+      "details": "Detaylı Bilgi",
+      "benefits": "Temel Faydalar",
+      "commitment": "Taahhüdümüz",
+      "footer": "Mom’s Natural Foods’u özel kılan şey budur"
     },
-    "Quality Guaranteed": {
-      "details": "Sıkı kalite kontrol sürecimiz, her ürünün evinize ulaşmadan önce yüksek standartlarımızı karşılamasını sağlar.",
-      "benefits": [
-        "Birden fazla kalite kontrol noktası",
-        "Düzenli laboratuvar testleri",
-        "Tazelik garantisi",
-        "Tutarlı ürün kalitesi"
-      ],
-      "commitment": "Yaptığımız her ürünün arkasındayız. Tamamen memnun değilseniz, durumu düzeltiriz."
-    },
-    "Family Focused": {
-      "details": "Ailelerin sevdiklerine servis etmekten iyi hissedebileceği, beslenme, güvenlik ve lezzete odaklanan ürünler yaratıyoruz.",
-      "benefits": [
-        "Tüm aile üyeleri için güvenli",
-        "Besin değeri dengeli seçenekler",
-        "Çocuklar için uygun lezzetler",
-        "Aile boyu paketleme"
-      ],
-      "commitment": "Sadece bir işletme değiliz - ailelere hizmet veren bir aileyiz, sağlıklı seçimleri kolaylaştırmanıza yardımcı olmaya kararlıyız."
-    },
-    "Our Mission": {
-      "details": "Sağlıklı, doğal beslenmeyi herkes için erişilebilir ve keyifli hale getirmek, lezzet veya kaliteden ödün vermeden.",
-      "benefits": [
-        "Uygun fiyatlı sağlıklı seçenekler",
-        "Geniş ürün çeşitliliği",
-        "Eğitim kaynakları",
-        "Topluluk desteği"
-      ],
-      "commitment": "Sağlıklı beslenme engellerini kırmaya ve doğal gıdaları günlük yaşamın neşeli bir parçası haline getirmeye adanmış durumdayız."
-    },
-    "Excellence": {
-      "details": "Ürün geliştirmeden müşteri hizmetlerine kadar işimizin her yönünde mükemmellik için çaba gösteriyoruz.",
-      "benefits": [
-        "Sürekli ürün iyileştirme",
-        "Olağanüstü müşteri hizmeti",
-        "Yenilikçi ürün geliştirme",
-        "Sürdürülebilir iş uygulamaları"
-      ],
-      "commitment": "'Yeterince iyi' ile asla yetinmiyoruz ve her zaman sizi daha iyi nasıl hizmet edebileceğimizi ve iyileştirebileceğimizi arıyoruz."
+    "valueDetails": {
+      "Sevgiyle Üretilmiştir": {
+        "details": "Ürünlerimizin her partisi, kendi ailemiz için gösterdiğimiz sevgi ve özenle hazırlanır. Bu, içerik seçiminden paketlemeye kadar her detaya dikkat ettiğimiz anlamına gelir.",
+        "benefits": [
+          "Her üründe kişisel dokunuş",
+          "Nesilden nesile aktarılan aile tarifleri",
+          "Kalite kontrolü için küçük partiler halinde el yapımı üretim",
+          "Gerçek özen ve dikkatle hazırlanmıştır"
+        ],
+        "commitment": "Sevgiyle yapılan yiyeceklerin hem bedeni hem de ruhu beslediğine inanıyoruz. Bu felsefe, yarattığımız her şeyin merkezinde yer alır."
+      },
+      "%100 Doğal": {
+        "details": "Yalnızca doğadan gelen en saf içerikleri kullanıyoruz. Ürünlerimizde asla yapay katkı maddeleri, koruyucular veya kimyasallar bulunmaz.",
+        "benefits": [
+          "Yapay renk veya aroma içermez",
+          "Koruyucu ve kimyasal maddelerden arındırılmıştır",
+          "Sürdürülebilir kaynaklardan temin edilen içerikler",
+          "Şeffaf içerik listeleri"
+        ],
+        "commitment": "Her bir içeriğin doğal bütünlüğünü korumaya kararlıyız, böylece doğanın sunduğu tüm besin değerlerinden faydalanabilirsiniz."
+      },
+      "Kalite Garantisi": {
+        "details": "Titiz kalite kontrol sürecimiz, her ürünün evinize ulaşmadan önce yüksek standartlarımızı karşıladığından emin olur.",
+        "benefits": [
+          "Birden fazla kalite kontrol aşaması",
+          "Düzenli laboratuvar testleri",
+          "Tazelik garantisi",
+          "Tutarlı ürün kalitesi"
+        ],
+        "commitment": "Ürettiğimiz her ürünün arkasındayız. Tamamen memnun kalmazsanız, sorunu çözmek için buradayız."
+      },
+      "Aile Odaklı": {
+        "details": "Beslenme, güvenlik ve lezzet odaklı ürünler geliştiriyoruz; böylece aileler sevdiklerine gönül rahatlığıyla sunabilirler.",
+        "benefits": [
+          "Tüm aile bireyleri için güvenli",
+          "Besin değeri dengeli seçenekler",
+          "Çocuk dostu tatlar",
+          "Aile boyu ambalaj seçenekleri"
+        ],
+        "commitment": "Biz sadece bir şirket değiliz – ailelere hizmet eden bir aileyiz. Sağlıklı seçimleri kolaylaştırmaya adadık kendimizi."
+      },
+      "Misyonumuz": {
+        "details": "Sağlıklı, doğal beslenmeyi herkes için erişilebilir ve keyifli hale getirmek; lezzet veya kaliteden ödün vermeden.",
+        "benefits": [
+          "Uygun fiyatlı sağlıklı seçenekler",
+          "Geniş ürün yelpazesi",
+          "Eğitici kaynaklar",
+          "Topluluk desteği"
+        ],
+        "commitment": "Sağlıklı beslenmenin önündeki engelleri kaldırmaya ve doğal beslenmeyi günlük yaşamın neşeli bir parçası haline getirmeye kararlıyız."
+      },
+      "Mükemmellik": {
+        "details": "Ürün geliştirmeden müşteri hizmetlerine kadar işimizin her alanında mükemmelliğe ulaşmak için çabalıyoruz.",
+        "benefits": [
+          "Sürekli ürün iyileştirmesi",
+          "Olağanüstü müşteri hizmeti",
+          "Yenilikçi ürün geliştirme",
+          "Sürdürülebilir iş uygulamaları"
+        ],
+        "commitment": "‘Yeterince iyi’ ile asla yetinmeyiz; her zaman gelişmenin ve size daha iyi hizmet etmenin yollarını ararız."
+      }
     }
   }
 ,

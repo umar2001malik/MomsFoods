@@ -21,7 +21,7 @@ const InfoSection = () => {
     hidden: { opacity: 0 },
     visible: {
       opacity: 1,
-      transition: { staggerChildren: 0.2, delayChildren: 0.3 },
+      transition: { staggerChildren: 0.1, delayChildren: 0.2 },
     },
   };
 
@@ -130,7 +130,7 @@ const InfoSection = () => {
         >
           {/* Left Text Section - Matching Hero Layout */}
           <motion.div
-            className="lg:w-1/2 text-center lg:text-left space-y-4 lg:space-y-8 2xl:space-y-16"
+            className="lg:w-1/2 text-center lg:text-left space-y-2 lg:space-y-4 2xl:space-y-6"
             variants={containerVariants}
           >
             <motion.h2 
@@ -138,7 +138,7 @@ const InfoSection = () => {
               className="font-bold font-serif text-[#5A3A1E] leading-tight
                 text-[clamp(2.2rem,4vw,5rem)]
                 lg:text-[clamp(3rem,5vw,7rem)]
-                2xl:text-[clamp(4rem,6vw,9rem)]
+                2xl:text-[clamp(1rem,6vw,4rem)]
                 3xl:text-[clamp(5rem,7vw,11rem)]"
             >
               {t('infoSection.title')}
@@ -146,11 +146,11 @@ const InfoSection = () => {
 
             <motion.div
               variants={textVariants}
-              className="space-y-4 lg:space-y-8 2xl:space-y-12 text-[#5A3A1E] leading-relaxed
+              className="space-y-2 lg:space-y-4 2xl:space-y-6 text-[#5A3A1E] leading-relaxed
                 text-[clamp(1.1rem,1.5vw,1.8rem)]
                 lg:text-[clamp(1.4rem,1.8vw,2.2rem)]
-                2xl:text-[clamp(1.7rem,2.2vw,2.8rem)]
-                3xl:text-[clamp(2rem,2.5vw,3.2rem)]"
+                2xl:text-[clamp(1.7rem,2.2vw,1.5rem)]
+                3xl:text-[clamp(2.4rem,2.5vw,3.2rem)]"
             >
               <motion.p variants={textVariants}>
                 {t('infoSection.description.part1')}{" "}
@@ -169,27 +169,29 @@ const InfoSection = () => {
             </motion.div>
 
             {/* Button - Matching Hero Style */}
-            <motion.div variants={textVariants} className="mt-8 2xl:mt-16 flex justify-center lg:justify-start">
-              <motion.button
-                variants={buttonVariants}
-                whileHover="hover"
-                whileTap="tap"
-                onClick={handleLearnMore}
-                className="bg-[#8B5E3C] text-white px-10 lg:px-12 py-4 lg:py-5 rounded-full font-semibold 
-                  text-[clamp(1rem,1.3vw,1.5rem)]
-                  lg:text-[clamp(1.2rem,1.5vw,1.8rem)]
-                  2xl:text-[clamp(1.4rem,1.8vw,2.2rem)]
-                  relative overflow-hidden group shadow-2xl hover:shadow-3xl transition-all duration-300"
-              >
-                <span className="relative z-10">{t('infoSection.button.learnMore')}</span>
-                <motion.div
-                  className="absolute inset-0 bg-gradient-to-r from-[#A67C52] to-[#8B5E3C]"
-                  initial={{ x: "-100%" }}
-                  whileHover={{ x: "0%" }}
-                  transition={{ duration: 0.3 }}
-                />
-              </motion.button>
-            </motion.div>
+          <motion.div variants={textVariants} className="mt-8 2xl:mt-16 flex justify-center lg:justify-start">
+  <motion.button
+    variants={buttonVariants}
+    whileHover="hover"
+    whileTap="tap"
+    onClick={handleLearnMore}
+    className="bg-[#8B5E3C] text-white 
+      px-6 lg:px-9 py-2.5 lg:py-3.5 rounded-full font-semibold 
+      text-[clamp(0.85rem,1vw,1.1rem)]
+      lg:text-[clamp(0.95rem,1.1vw,1.25rem)]
+      2xl:text-[clamp(1.05rem,1.2vw,1.35rem)]
+      relative overflow-hidden group shadow-xl hover:shadow-2xl transition-all duration-300"
+  >
+    <span className="relative z-10">{t('infoSection.button.learnMore')}</span>
+    <motion.div
+      className="absolute inset-0 bg-gradient-to-r from-[#A67C52] to-[#8B5E3C]"
+      initial={{ x: "-100%" }}
+      whileHover={{ x: "0%" }}
+      transition={{ duration: 0.3 }}
+    />
+  </motion.button>
+</motion.div>
+
           </motion.div>
 
           {/* Right Media Grid - EXTRA LARGE for Large Screens */}

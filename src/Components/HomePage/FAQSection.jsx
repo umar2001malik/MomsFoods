@@ -898,8 +898,8 @@ const FAQSection = () => {
     visible: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.15,
-        delayChildren: 0.3
+         staggerChildren: 0.1,
+  delayChildren: 0.02
       }
     }
   };
@@ -1397,7 +1397,7 @@ const FAQSection = () => {
             <motion.div
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
-              transition={{ delay: 1.5 }}
+              transition={{ delay: 0.3 }}
               className="absolute top-4 right-4 lg:top-6 lg:right-6 2xl:top-8 2xl:right-8"
             >
               <motion.div

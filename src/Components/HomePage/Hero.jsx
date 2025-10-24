@@ -142,7 +142,7 @@ const Hero = () => {
 
          <motion.h2
   variants={textVariants}
-  className="font-bold text-[#5A3A1E] font-serif leading-tight whitespace-nowrap
+  className="font-bold text-[#1C1C1C] font-serif leading-tight whitespace-nowrap
     text-[1.1rem]          /* smaller size for mobile screens */
     sm:text-[clamp(1.8rem,3vw,4rem)]  
     lg:text-[clamp(2rem,3.5vw,5rem)]
@@ -154,7 +154,7 @@ const Hero = () => {
             {/* OVEN BAKED WITH - Single line */}
             <motion.h2
               variants={textVariants}
-              className="font-bold text-[#5A3A1E] font-serif leading-tight whitespace-nowrap
+              className="font-bold text-[#1C1C1C] font-serif leading-tight whitespace-nowrap
                  text-[1.2rem] 
                 lg:text-[clamp(2rem,3.5vw,5rem)]
                 2xl:text-[clamp(2.5rem,4vw,6rem)]"
@@ -165,7 +165,7 @@ const Hero = () => {
             {/* EXTRA VIRGIN - Single line */}
             <motion.h2
               variants={textVariants}
-              className="font-bold bg-gradient-to-r from-[#8B5E3C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
+              className="font-bold bg-gradient-to-r from-[#1C1C1C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
                   text-[1.2rem] 
                 lg:text-[clamp(2.5rem,4vw,6rem)]
                 2xl:text-[clamp(3rem,4.5vw,7rem)] font-serif"
@@ -176,7 +176,7 @@ const Hero = () => {
             {/* OLIVE OIL - Single line */}
             <motion.h2
               variants={textVariants}
-              className="font-bold bg-gradient-to-r from-[#8B5E3C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
+              className="font-bold bg-gradient-to-r from-[#1C1C1C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
                   text-[1.2rem] 
                 lg:text-[clamp(2.5rem,4vw,6rem)]
                 2xl:text-[clamp(3rem,4.5vw,7rem)] font-serif"
@@ -187,7 +187,7 @@ const Hero = () => {
             {/* GRANOLA - Single line */}
             <motion.h2
               variants={textVariants}
-              className="font-bold bg-gradient-to-r from-[#8B5E3C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
+              className="font-bold bg-gradient-to-r from-[#1C1C1C] via-[#A67C52] to-[#D1A15D] bg-clip-text text-transparent whitespace-nowrap
                   text-[1.2rem] 
                 lg:text-[clamp(2.5rem,4vw,6rem)]
                 2xl:text-[clamp(3rem,4.5vw,7rem)] font-serif"
