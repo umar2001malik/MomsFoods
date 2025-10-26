@@ -1180,6 +1180,41 @@ const AboutPage = () => {
   useEffect(() => {
     cardRefs.current = cardRefs.current.slice(0, values.length);
   }, [values.length]);
+  // Prevent body scroll when modal is open
+useEffect(() => {
+  if (isModalOpen || isGalleryModalOpen) {
+    document.body.style.overflow = 'hidden';
+  } else {
+    document.body.style.overflow = 'unset';
+  }
+
+  return () => {
+    document.body.style.overflow = 'unset';
+  };
+}, [isModalOpen, isGalleryModalOpen]);
+<style jsx global>{`
+  /* Prevent body scroll when modal is open */
+  body.modal-open {
+    overflow: hidden;
+  }
+  
+  .h-104 {
+    height: 26rem;
+  }
+  .h-120 {
+    height: 30rem;
+  }
+  .w-120 {
+    width: 30rem;
+  }
+  
+  /* Remove container constraints for large screens */
+  @media (min-width: 2560px) {
+    .container {
+      max-width: none;
+    }
+  }
+`}</style>
 
   return (
     <div className="min-h-screen bg-white">
@@ -1586,7 +1621,7 @@ const AboutPage = () => {
                   </motion.div>
 
                   {/* Mobile Modal */}
-                  <motion.div
+                  {/* <motion.div
                     variants={overlayVariants}
                     initial="hidden"
                     animate="visible"
@@ -1602,7 +1637,7 @@ const AboutPage = () => {
                       className="fixed bottom-0 left-0 right-0 bg-white rounded-t-3xl shadow-2xl z-50 max-h-[85vh] overflow-hidden"
                       onClick={(e) => e.stopPropagation()}
                     >
-                      {/* Modal Header */}
+                    
                       <div className="flex-shrink-0 p-6 border-b border-amber-100 bg-white sticky top-0">
                         <div className="flex items-start justify-between mb-4">
                           <div className="flex items-start gap-4 flex-1">
@@ -1625,18 +1660,17 @@ const AboutPage = () => {
                             <X className="w-4 h-4 text-[#8B5E3C]" />
                           </button>
                         </div>
-                        {/* Drag Handle */}
+                     
                         <div className="flex justify-center">
                           <div className="w-12 h-1 bg-gray-300 rounded-full"></div>
                         </div>
                       </div>
 
-                      {/* Modal Content */}
                       <div className="flex-1 overflow-y-auto">
                         <div className="p-6">
                           {valueDetails[selectedValue.title] && (
                             <div className="space-y-6">
-                              {/* Details Section */}
+                             
                               <div>
                                 <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
                                   <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
@@ -1647,7 +1681,7 @@ const AboutPage = () => {
                                 </p>
                               </div>
 
-                              {/* Commitment Section */}
+                             
                               <div>
                                 <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
                                   <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
@@ -1658,7 +1692,7 @@ const AboutPage = () => {
                                 </p>
                               </div>
 
-                              {/* Benefits Section */}
+                           
                               <div>
                                 <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
                                   <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
@@ -1676,7 +1710,7 @@ const AboutPage = () => {
                             </div>
                           )}
 
-                          {/* Footer */}
+                          
                           <div className="pt-6 mt-6 border-t border-amber-100">
                             <p className="text-center text-[#8B5E3C] font-semibold italic text-base">
                               {t('about.modal.footer')}
@@ -1685,7 +1719,110 @@ const AboutPage = () => {
                         </div>
                       </div>
                     </motion.div>
-                  </motion.div>
+                  </motion.div> */}
+
+                  {/* Mobile Modal */}
+<motion.div
+  variants={overlayVariants}
+  initial="hidden"
+  animate="visible"
+  exit="hidden"
+  className="md:hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-40 overflow-hidden"
+  onClick={handleCloseModal}
+>
+  <motion.div
+    variants={mobileModalVariants}
+    initial="hidden"
+    animate="visible"
+    exit="hidden"
+    className="fixed bottom-0 left-0 right-0 bg-white rounded-t-3xl shadow-2xl z-50 max-h-[85vh] flex flex-col"
+    onClick={(e) => e.stopPropagation()}
+  >
+    {/* Drag Handle */}
+    <div className="flex-shrink-0 flex justify-center pt-3 pb-2 cursor-grab active:cursor-grabbing">
+      <div className="w-12 h-1 bg-gray-300 rounded-full"></div>
+    </div>
+
+    {/* Modal Header - Fixed */}
+    <div className="flex-shrink-0 p-6 border-b border-amber-100 bg-white">
+      <div className="flex items-start justify-between">
+        <div className="flex items-start gap-4 flex-1">
+          <div className="w-12 h-12 bg-gradient-to-br from-[#8B5E3C] to-[#D1A15D] rounded-2xl flex items-center justify-center flex-shrink-0">
+            {React.createElement(getIcon(selectedValue.icon), { className: "w-6 h-6 text-white" })}
+          </div>
+          <div className="flex-1 min-w-0">
+            <h3 className="text-xl font-bold text-[#8B5E3C] font-serif mb-2">
+              {selectedValue.title}
+            </h3>
+            <p className="text-base text-[#6b4a2f] leading-relaxed">
+              {selectedValue.description}
+            </p>
+          </div>
+        </div>
+        <button
+          onClick={handleCloseModal}
+          className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-amber-50 transition-colors flex-shrink-0 ml-4"
+        >
+          <X className="w-4 h-4 text-[#8B5E3C]" />
+        </button>
+      </div>
+    </div>
+
+    {/* Scrollable Content Area */}
+    <div className="flex-1 overflow-y-auto">
+      <div className="p-6">
+        {valueDetails[selectedValue.title] && (
+          <div className="space-y-6">
+            {/* Details Section */}
+            <div>
+              <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
+                <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
+                {t('about.modal.details')}
+              </h4>
+              <p className="text-[#6b4a2f] leading-relaxed text-base">
+                {valueDetails[selectedValue.title].details}
+              </p>
+            </div>
+
+            {/* Commitment Section */}
+            <div>
+              <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
+                <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
+                {t('about.modal.commitment')}
+              </h4>
+              <p className="text-[#6b4a2f] leading-relaxed text-base">
+                {valueDetails[selectedValue.title].commitment}
+              </p>
+            </div>
+
+            {/* Benefits Section */}
+            <div>
+              <h4 className="text-lg font-bold text-[#8B5E3C] mb-3 flex items-center gap-2">
+                <span className="w-2 h-2 bg-[#8B5E3C] rounded-full"></span>
+                {t('about.modal.benefits')}
+              </h4>
+              <ul className="space-y-3">
+                {valueDetails[selectedValue.title].benefits.map((benefit, index) => (
+                  <li key={index} className="flex items-start gap-3 text-[#6b4a2f] text-base">
+                    <span className="w-1.5 h-1.5 bg-[#D1A15D] rounded-full mt-2 flex-shrink-0"></span>
+                    <span className="leading-relaxed">{benefit}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        )}
+
+        {/* Footer */}
+        <div className="pt-6 mt-6 border-t border-amber-100">
+          <p className="text-center text-[#8B5E3C] font-semibold italic text-base">
+            {t('about.modal.footer')}
+          </p>
+        </div>
+      </div>
+    </div>
+  </motion.div>
+</motion.div>
                 </>
               )}
             </AnimatePresence>
